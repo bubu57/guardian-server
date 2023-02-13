@@ -15,7 +15,7 @@ Version: Beta
 - lynis audit 
 - chkrootkit audit
 - send audit by mail
-- send audit by ntfy :heavy_check_mark:
+- send audit by ntfy    :heavy_check_mark:
 - backup system 
 ## Requirement
 
