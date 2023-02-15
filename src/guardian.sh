@@ -2,7 +2,10 @@
 
 gtmp="/home/leaveit/guardian-server/src/gtmp.txt"
 glog="/usr/share/guardian-server/log"
-gaudit="/usr/share/guardian-server/audit"
+gaudit="/home/leaveit/guardian-server/src/audit.txt"
+gconf="/home/leaveit/guardian-server/src/guardian.conf"
+
+dir_list=$(grep "dir_list" $gconf | sed 's/dir_list="//g' | sed 's/"//g')
 
 
 check () {
@@ -20,25 +23,30 @@ check () {
 }
 
 lynis () {
-    echo -e "\n\nLynis scan...\n"
+    echo -e "system scann\n" >> $gaudit
+
     sudo lynis audit system --no-colors >$gtmp
     cmd=`cat $gtmp | grep "Warnings" | sed 's/(//g' | sed 's/)//g' | sed 's/://g' | sed 's/Warnings//g' | sed 's/ //g'`
-    echo "Warning: $cmd"
+    echo "Warning: $cmd" >> $gaudit
     cmd=`cat $gtmp | grep "Suggestions" | sed 's/(//g' | sed 's/)//g' | sed 's/://g' | sed 's/Suggestions//g' | sed 's/ //g'`
-    echo "Suggestions: $cmd"
+    echo "Suggestions: $cmd" >> $gaudit
+    
 }
 
 clamav () {
-    echo -e "\n\nclamav scan...\n"
+    echo -e "\n\nVirus scan\n" >> $gaudit
 
-    sudo clamscan -r /bin > $gtmp
+    sudo clamscan -r $dir_list > $gtmp
 
     inf_file=$(grep "Infected files" $gtmp)
     tot_file=$(grep "Scanned files" $gtmp)
 
-    echo -e "$tot_file\n$inf_file"
+    echo -e "$tot_file\n$inf_file" >> $gaudit
 }
 
-# check
-# lynis
+check
+echo -e "\nSystem check"
+lynis
+echo -e "\nVirus check"
 clamav
+cat $gaudit
