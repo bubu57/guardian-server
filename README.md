@@ -11,19 +11,17 @@ Version: Beta
 
 ## feature
 
-- rkhunter test 
-- lynis test 
-- chkrootkit test
+- ClamAV test :heavy_check_mark:
+- lynis test :heavy_check_mark:
 - audit 
 - send audit by mail
-- send audit by ntfy    :heavy_check_mark:
+- send audit by ntfy
 - backup system 
 - ssh alert 
 ## Requirement
 
 - Lynis
-- rkhunter
-- chkrootkit
+- ClamAV
 - bash
 ## Installation
 
