@@ -9,14 +9,16 @@ Version: Beta
 
 
 
-## feature available
+## feature
 
-- rkhunter audit 
-- lynis audit 
-- chkrootkit audit
+- rkhunter test 
+- lynis test 
+- chkrootkit test
+- audit 
 - send audit by mail
 - send audit by ntfy    :heavy_check_mark:
 - backup system 
+- ssh alert 
 ## Requirement
 
 - Lynis
