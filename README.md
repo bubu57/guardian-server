@@ -13,7 +13,7 @@ Version: Beta
 
 - ClamAV test :heavy_check_mark:
 - lynis test :heavy_check_mark:
-- audit 
+- audit :heavy_check_mark:
 - send audit by mail
 - send audit by ntfy
 - backup system 
