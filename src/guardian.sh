@@ -1,9 +1,11 @@
 #!/bin/bash
 
-gtmp="/usr/share/guardian/src/gtmp.txt"
-glog="/usr/share/guardian/src/log"
-gaudit="/usr/share/guardian/src/audit.txt"
-gconf="/usr/share/guardian/src/guardian.conf"
+./etc/rc.d/init.d/functions
+
+gtmp="/usr/share/guardian-server/src/gtmp.txt"
+glog="/usr/share/guardian-server/src/log"
+gaudit="/usr/share/guardian-server/src/audit.txt"
+gconf="/usr/share/guardian-server/src/guardian.conf"
 
 dir_list=$(grep "dir_list" $gconf | sed 's/dir_list="//g' | sed 's/"//g')
 gdest=$(grep "backup_dest" $gconf | sed 's/backup_dest="//g' | sed 's/"//g')
@@ -22,24 +24,32 @@ check () {
     for element in "${liste[@]}"
     do
         if command -v "$element" >/dev/null 2>&1 ; then
-            echo -e "$element   [FOUND]"
+            echo_success
         else
-            echo -e "$element   [NOT FOUND]"
+            echo_failure
         fi
     done
 
     echo -e "\n\nChecking file intergity\n------------------------"
-    if [ -f "/usr/share/guardian/src/gconf.conf" ]; then echo "guardian config file   [FOUND]" ;else echo "guardian config file  [NOT FOUND]" ;fi
+    gprintf "guardian config file"
+    if [ -f "/usr/share/guardian-server/src/guardian.conf" ]; then echo echo_success ;else echo echo_failure ;fi
 
     echo -e "\n\nChecking guardian config\n------------------------"
-    if [ -z "$gdest" ]; then echo "backup destination   [EMPTY]" ;else echo "backup destination  [DONE]" ;fi
-    if [ -z "$gsrc" ]; then echo "backup source   [EMPTY]" ;else echo "backup source  [DONE]" ;fi
-    if [ -z "$dir_list" ]; then echo "directories list scan   [EMPTY]" ;else echo "directories list scan  [DONE]" ;fi
-    if [ -z "$greciver" ]; then echo "mail reciver   [EMPTY]" ;else echo "mail reciver  [DONE]" ;fi
-    if [ -z "$gsender" ]; then echo "mail sender   [EMPTY]" ;else echo "mail sender  [DONE]" ;fi
-    if [ -z "$gpassword" ]; then echo "mail sender password   [EMPTY]" ;else echo "mail sender password    [DONE]" ;fi
-    if [ -z "$gntfy" ]; then echo "ntfy topic   [EMPTY]" ;else echo "ntfy topic  [DONE]" ;fi
-    
+    gprintf "backup destination"
+    if [ -z "$gdest" ]; then echo_failure ;else echo_success ;fi
+    gprintf "backup source"
+    if [ -z "$gsrc" ]; then echo_failure ;else echo_success ;fi
+    gprintf "directories list scan"
+    if [ -z "$dir_list" ]; then echo_failure ;else echo_success ;fi
+    gprintf "mail reciver"
+    if [ -z "$greciver" ]; then echo_failure ;else echo_success ;fi
+    gprintf "mail sender"
+    if [ -z "$gsender" ]; then echo_failure ;else echo_success ;fi
+    gprintf "mail sender passord"
+    if [ -z "$gpassword" ]; then echo_failure ;else echo_success ;fi
+    gprintf "ntfy topic"
+    if [ -z "$gntfy" ]; then echo_failure ;else echo_success ;fi
+
 }
 
 lynis () {
@@ -50,6 +60,10 @@ lynis () {
     echo "Warning: $cmd" >> $gaudit
     cmd=`cat $gtmp | grep "Suggestions" | sed 's/(//g' | sed 's/)//g' | sed 's/://g' | sed 's/Suggestions//g' | sed 's/ //g'`
     echo "Suggestions: $cmd" >> $gaudit
+
+    sudo sed -i -e 's/  //g' $gtmp
+    echo "Recommendations\n" > $glog
+    sudo grep '^*' $gtmp >> $glog
     
 }
 
@@ -88,13 +102,13 @@ echo -e "\n\nguardian result\n==================" > $gaudit
 check
 echo -ne "\nchecking system..."
 lynis
-echo "  [DONE]"
+echo_success
 echo -n "checking virus..."
 clamav
-echo "  [DONE]"
+echo_success
 echo -n "backup..."
 backup
-echo "  [DONE]"
+echo_success
 cat $gaudit
 
 

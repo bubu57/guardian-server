@@ -15,9 +15,8 @@ Version: Beta
 - lynis test :heavy_check_mark:
 - audit :heavy_check_mark:
 - send audit by mail
-- send audit by ntfy
-- backup system 
-- ssh alert 
+- send audit by ntfy :heavy_check_mark:
+- backup system :heavy_check_mark:
 ## Requirement
 
 - Lynis

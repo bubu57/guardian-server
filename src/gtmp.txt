@@ -1,1 +1,2293 @@
-guardian-server
+/usr/bin/grub-file: OK
+/usr/bin/eqn: OK
+/usr/bin/myisamchk: OK
+/bin/ginstall-info: Symbolic link
+/usr/bin/preparetips5: OK
+/usr/bin/grub-fstest: OK
+/usr/bin/ruby3.0: OK
+/usr/bin/grub-mkrescue: OK
+/usr/bin/sg_senddiag: OK
+/usr/bin/x86_64-linux-gnu-readelf: OK
+/usr/bin/fc-match: OK
+/bin/byobu-screen: Symbolic link
+/usr/bin/sbsign: OK
+/bin/ftp: Symbolic link
+/usr/bin/gdk-pixbuf-csource: OK
+/usr/bin/setfont: OK
+/usr/bin/pydoc3.10: OK
+/usr/bin/gsnd: OK
+/usr/bin/vmhgfs-fuse: OK
+/usr/bin/pnmtotiff: OK
+/usr/bin/xkbprint: OK
+/usr/bin/fc-list: OK
+/usr/bin/ppmcolormask: OK
+/usr/bin/screen: OK
+/usr/bin/vimtutor: OK
+/usr/bin/debconf-show: OK
+/usr/bin/systemd-sysusers: OK
+/usr/bin/ntfswipe: OK
+/usr/bin/imgtoppm: OK
+/usr/bin/shasum: OK
+/usr/bin/sg_wr_mode: OK
+/usr/bin/kwrapper5: OK
+/usr/bin/sg_format: OK
+/usr/bin/purge-old-kernels: OK
+/usr/bin/sg_read_buffer: OK
+/usr/bin/update-mime-database: OK
+/usr/bin/pkmon: OK
+/usr/bin/jsonpointer: OK
+/usr/bin/vmware-namespace-cmd: OK
+/bin/run-one-until-success: Symbolic link
+/usr/bin/ntfsusermap: OK
+/usr/bin/dpkg-distaddfile: OK
+/usr/bin/ico: OK
+/usr/bin/sudoreplay: OK
+/usr/bin/atobm: OK
+/bin/sg: Symbolic link
+/usr/bin/twistd3: OK
+/bin/rlogin: Symbolic link
+/bin/ua: Symbolic link
+/usr/bin/cpan: OK
+/bin/ld.gold: Symbolic link
+/usr/bin/htdbm: OK
+/usr/bin/x11perfcomp: OK
+/usr/bin/attr: OK
+/usr/bin/sg_zone: OK
+/bin/npm: Symbolic link
+/usr/bin/ppmtolj: OK
+/usr/bin/scriptlive: OK
+/usr/bin/ptargrep: OK
+/usr/bin/bmptopnm: OK
+/usr/bin/usbreset: OK
+/usr/bin/dvipdf: OK
+/usr/bin/pod2man: OK
+/bin/npx: Symbolic link
+/bin/sudoedit: Symbolic link
+/usr/bin/testparm: OK
+/usr/bin/dpkg-deb: OK
+/bin/npm-arborist: Symbolic link
+/usr/bin/samba-tool: OK
+/usr/bin/grub-mklayout: OK
+/usr/bin/pdbedit: OK
+/usr/bin/upower: OK
+/usr/bin/nm-online: OK
+/usr/bin/mgrtopbm: OK
+/usr/bin/pybabel-python3: OK
+/bin/linux64: Symbolic link
+/usr/bin/pbmtog3: OK
+/usr/bin/tac: OK
+/usr/bin/tracepath: OK
+/usr/bin/sg_persist: OK
+/usr/bin/dpkg-maintscript-helper: OK
+/usr/bin/byobu-launcher-install: OK
+/usr/bin/atktopbm: OK
+/usr/bin/gtk-builder-tool: OK
+/usr/bin/tsort: OK
+/usr/bin/x86_64-linux-gnu-gcov-dump-11: OK
+/usr/bin/more: OK
+/usr/bin/rbs3.0: OK
+/usr/bin/pbmmask: OK
+/usr/bin/zipinfo: OK
+/usr/bin/lwp-mirror: OK
+/bin/gprof: Symbolic link
+/usr/bin/xkbevd: OK
+/usr/bin/strace-log-merge: OK
+/usr/bin/sg_map26: OK
+/usr/bin/uuidgen: OK
+/usr/bin/whereis: OK
+/usr/bin/mysecureshell: OK
+/usr/bin/xvinfo: OK
+/usr/bin/pnmcut: OK
+/usr/bin/ppmntsc: OK
+/usr/bin/itox: OK
+/usr/bin/zcmp: OK
+/usr/bin/byobu-prompt: OK
+/usr/bin/strace: OK
+/usr/bin/pbmclean: OK
+/bin/snice: Symbolic link
+/bin/fusermount: Symbolic link
+/usr/bin/flock: OK
+/bin/ar: Symbolic link
+/usr/bin/markdown_py: OK
+/usr/bin/preconv: OK
+/usr/bin/linux-check-removal: OK
+/usr/bin/c99-gcc: OK
+/usr/bin/rsync-ssl: OK
+/usr/bin/dpkg-mergechangelogs: OK
+/usr/bin/mapscrn: OK
+/usr/bin/411toppm: OK
+/bin/ppmnorm: Symbolic link
+/usr/bin/gpg-connect-agent: OK
+/usr/bin/gzexe: OK
+/usr/bin/loadunimap: OK
+/usr/bin/pnmquant: OK
+/usr/bin/prezip: OK
+/usr/bin/pdfunite: OK
+/usr/bin/pnmdepth: OK
+/bin/linux32: Symbolic link
+/bin/run-one-constantly: Symbolic link
+/bin/gemtopbm: Symbolic link
+/usr/bin/pbmtobbnbg: OK
+/usr/bin/pbput: OK
+/usr/bin/xclock: OK
+/usr/bin/head: OK
+/usr/bin/lslogins: OK
+/usr/bin/sg_read_block_limits: OK
+/usr/bin/c_rehash: OK
+/usr/bin/manpath: OK
+/usr/bin/pdfinfo: OK
+/usr/bin/x86_64-linux-gnu-ar: OK
+/usr/bin/sotruss: OK
+/usr/bin/mount: OK
+/usr/bin/bash: OK
+/usr/bin/pdftotext: OK
+/usr/bin/landscape-sysinfo: OK
+/usr/bin/test: OK
+/usr/bin/migrate-pubring-from-classic-gpg: OK
+/usr/bin/paperconf: OK
+/bin/newaliases: Symbolic link
+/usr/bin/echo: OK
+/usr/bin/pbmtozinc: OK
+/usr/bin/ps2pdf14: OK
+/bin/systemd-umount: Symbolic link
+/usr/bin/systemd-detect-virt: OK
+/usr/bin/systemd-cgls: OK
+/usr/bin/proxy: OK
+/usr/bin/chattr: OK
+/usr/bin/byobu-quiet: OK
+/bin/baloo_file: Symbolic link
+/usr/bin/pcxtoppm: OK
+/usr/bin/mysqlslap: OK
+/bin/col9: Symbolic link
+/usr/bin/deb-systemd-helper: OK
+/usr/bin/bzip2recover: OK
+/usr/bin/kactivities-cli: OK
+/usr/bin/peekfd: OK
+/usr/bin/gsbj: OK
+/usr/bin/xcutsel: OK
+/usr/bin/getconf: OK
+/usr/bin/yuvsplittoppm: OK
+/bin/gcov-dump: Symbolic link
+/usr/bin/mknod: OK
+/usr/bin/mysqldumpslow: OK
+/usr/bin/fc-conflist: OK
+/usr/bin/ppmspread: OK
+/bin/which: Symbolic link
+/usr/bin/imagetops: OK
+/usr/bin/usbhid-dump: OK
+/usr/bin/ptx: OK
+/usr/bin/xrandr: OK
+/usr/bin/bdftopcf: OK
+/usr/bin/mysql_ssl_rsa_setup: OK
+/bin/x-www-browser: Symbolic link
+/usr/bin/pnmtopng: OK
+/usr/bin/delv: OK
+/usr/bin/xprop: OK
+/usr/bin/fold: OK
+/usr/bin/psfxtable: OK
+/usr/bin/sg_get_config: OK
+/usr/bin/zfgrep: OK
+/usr/bin/expand: OK
+/usr/bin/deb-systemd-invoke: OK
+/usr/bin/sputoppm: OK
+/bin/lzfgrep: Symbolic link
+/bin/mogrify-im6: Symbolic link
+/bin/gcov-11: Symbolic link
+/usr/bin/pnmtosgi: OK
+/usr/bin/sg_read_attr: OK
+/usr/bin/ppmtoeyuv: OK
+/usr/bin/pgmkernel: OK
+/usr/bin/ppmtobmp: OK
+/usr/bin/pnmtoplainpnm: OK
+/usr/bin/hostid: OK
+/usr/bin/udisksctl: OK
+/usr/bin/ppmtomitsu: OK
+/bin/lzcmp: Symbolic link
+/usr/bin/xdg-email: OK
+/usr/bin/pgmhist: OK
+/usr/bin/notify-send: OK
+/usr/bin/byobu-disable: OK
+/usr/bin/xdg-user-dirs-update: OK
+/bin/nmtui-edit: Symbolic link
+/usr/bin/sg_get_elem_status: OK
+/usr/bin/gpg: OK
+/bin/bzegrep: Symbolic link
+/bin/strings: Symbolic link
+/usr/bin/smproxy: OK
+/usr/bin/sg_ident: OK
+/usr/bin/tkconch3: OK
+/usr/bin/showrgb: OK
+/usr/bin/systemd-id128: OK
+/usr/bin/pstree: OK
+/usr/bin/leaftoppm: OK
+/bin/git-upload-pack: Symbolic link
+/usr/bin/tdbtool: OK
+/usr/bin/gyp: OK
+/usr/bin/apt-cache: OK
+/usr/bin/pnmgamma: OK
+/usr/bin/ps2pdf: OK
+/usr/bin/sosreport: OK
+/usr/bin/luit: OK
+/usr/bin/xzless: OK
+/usr/bin/dpkg-checkbuilddeps: OK
+/usr/bin/pnmnorm: OK
+/usr/bin/install-menu: OK
+/bin/mysqlanalyze: Symbolic link
+/usr/bin/gtf: OK
+/usr/bin/pbmtocmuwm: OK
+/usr/bin/x86_64-linux-gnu-gcc-ar-11: OK
+/usr/bin/lsinitramfs: OK
+/usr/bin/getent: OK
+/usr/bin/kbd_mode: OK
+/usr/bin/clear_console: OK
+/usr/bin/grub-kbdcomp: OK
+/usr/bin/grub-mkrelpath: OK
+/bin/ctstat: Symbolic link
+/usr/bin/last: OK
+/bin/snapctl: Symbolic link
+/usr/bin/fwupdtool: OK
+/usr/bin/ubuntu-distro-info: OK
+/bin/open: Symbolic link
+/usr/bin/cautious-launcher: OK
+/bin/cpp-11: Symbolic link
+/usr/bin/transset: OK
+/usr/bin/wifi-status: OK
+/usr/bin/look: OK
+/usr/bin/mysqlreport: OK
+/usr/bin/ktrash5: OK
+/usr/bin/dnssec-keygen: OK
+/bin/NF: Symbolic link
+/usr/bin/pygmentize: OK
+/usr/bin/grub-editenv: OK
+/usr/bin/ping: OK
+/usr/bin/x86_64-linux-gnu-objcopy: OK
+/usr/bin/dfu-tool: OK
+/usr/bin/sg_logs: OK
+/usr/bin/killall: OK
+/usr/bin/true: OK
+/usr/bin/sg_sync: OK
+/usr/bin/pwd: OK
+/usr/bin/poff: OK
+/usr/bin/git-shell: OK
+/usr/bin/pamoil: OK
+/usr/bin/zipcloak: OK
+/bin/qrcode-terminal: Symbolic link
+/usr/bin/pnmtops: OK
+/usr/bin/eps2eps: OK
+/usr/bin/ssh-import-id-lp: OK
+/usr/bin/zipsplit: OK
+/usr/bin/sbkeysync: OK
+/usr/bin/lsattr: OK
+/bin/nmtui-connect: Symbolic link
+/usr/bin/sg_readcap: OK
+/usr/bin/vdir: OK
+/bin/editor: Symbolic link
+/usr/bin/fwupdmgr: OK
+/usr/bin/rdoc3.0: OK
+/usr/bin/sg_test_rwbuf: OK
+/usr/bin/bzexe: OK
+/usr/bin/grub-mkstandalone: OK
+/usr/bin/byobu-enable: OK
+/usr/bin/sg_sat_phy_event: OK
+/usr/bin/vmwarectrl: OK
+/usr/bin/pbmtomda: OK
+/usr/bin/animate-im6.q16: OK
+/bin/col6: Symbolic link
+/usr/bin/pdf2dsc: OK
+/usr/bin/kmodsign: OK
+/usr/bin/enc2xs: OK
+/usr/bin/routef: OK
+/bin/x86_64-linux-gnu-cpp: Symbolic link
+/bin/apt-add-repository: Symbolic link
+/usr/bin/sigtool: OK
+/usr/bin/xclipboard: OK
+/bin/node-coveralls: Symbolic link
+/usr/bin/py3clean: OK
+/usr/bin/sg_sanitize: OK
+/usr/bin/pastebinit: OK
+/usr/bin/profiles: OK
+/usr/bin/sbattach: OK
+/usr/bin/ntfsrecover: OK
+/usr/bin/sg_write_long: OK
+/usr/bin/tdbbackup.tdbtools: OK
+/usr/bin/libwacom-show-stylus: OK
+/usr/bin/innochecksum: OK
+/usr/bin/xinput: OK
+/usr/bin/ppmtopgm: OK
+/usr/bin/x86_64-linux-gnu-gcc-nm-11: OK
+/usr/bin/gpgtar: OK
+/usr/bin/dpkg-vendor: OK
+/usr/bin/pslog: OK
+/usr/bin/timeout: OK
+/usr/bin/clear: OK
+/bin/ghostscript: Symbolic link
+/usr/bin/x86_64-linux-gnu-as: OK
+/usr/bin/ppmtv: OK
+/usr/bin/ps2epsi: OK
+/usr/bin/mmcli: OK
+/usr/bin/gem3.0: OK
+/usr/bin/sg_requests: OK
+/bin/x86_64-linux-gnu-gcov-dump: Symbolic link
+/usr/bin/sha384sum: OK
+/usr/bin/diffpp: OK
+/usr/bin/sftp-verif: OK
+/usr/bin/zstd: OK
+/usr/bin/vmware-alias-import: OK
+/usr/bin/ubuntu-drivers: OK
+/usr/bin/uuidparse: OK
+/usr/bin/setterm: OK
+/usr/bin/zdump: OK
+/usr/bin/dolphin: OK
+/usr/bin/pnmflip: OK
+/usr/bin/x86_64-linux-gnu-ranlib: OK
+/usr/bin/grub-render-label: OK
+/usr/bin/ppmquantall: OK
+/usr/bin/sg_read_long: OK
+/usr/bin/localedef: OK
+/usr/bin/cgi-fcgi: OK
+/usr/bin/splitfont: OK
+/usr/bin/finalrd: OK
+/usr/bin/ckeygen3: OK
+/usr/bin/xzgrep: OK
+/usr/bin/ppmcie: OK
+/bin/HEAD: Symbolic link
+/usr/bin/boltctl: OK
+/usr/bin/clamscan: OK
+/usr/bin/vmtoolsd: OK
+/usr/bin/tzselect: OK
+/usr/bin/rstart: OK
+/usr/bin/sg_rtpg: OK
+/usr/bin/pf2afm: OK
+/usr/bin/pkexec: OK
+/bin/js: Symbolic link
+/bin/addr2line: Symbolic link
+/usr/bin/xsm: OK
+/usr/bin/nping: OK
+/usr/bin/sg_inq: OK
+/usr/bin/ppmtoacad: OK
+/usr/bin/gencat: OK
+/usr/bin/kernel-install: OK
+/bin/identify: Symbolic link
+/usr/bin/faked-tcp: OK
+/usr/bin/bundler3.0: OK
+/usr/bin/pngtopnm: OK
+/usr/bin/gs: OK
+/usr/bin/shuf: OK
+/usr/bin/lastlog: OK
+/usr/bin/tdbrestore: OK
+/usr/bin/lzmainfo: OK
+/usr/bin/pnmscalefixed: OK
+/usr/bin/xsetmode: OK
+/usr/bin/sbsiglist: OK
+/usr/bin/ucfq: OK
+/usr/bin/dbus-monitor: OK
+/bin/bzfgrep: Symbolic link
+/usr/bin/x86_64-linux-gnu-objdump: OK
+/usr/bin/ptar: OK
+/usr/bin/startx: OK
+/usr/bin/pnmpsnr: OK
+/usr/bin/unicode_start: OK
+/usr/bin/xmore: OK
+/usr/bin/c89-gcc: OK
+/usr/bin/pon: OK
+/usr/bin/dpkg-gencontrol: OK
+/usr/bin/wget: OK
+/usr/bin/byobu-select-backend: OK
+/usr/bin/unmkinitramfs: OK
+/bin/iptables-xml: Symbolic link
+/usr/bin/nice: OK
+/usr/bin/kdeinit5_wrapper: OK
+/usr/bin/xpmtoppm: OK
+/usr/bin/systemd-run: OK
+/usr/bin/ssh-keyscan: OK
+/usr/bin/htpasswd: OK
+/bin/pnmnoraw: Symbolic link
+/bin/mt: Symbolic link
+/usr/bin/manifest: OK
+/usr/bin/cpio: OK
+/bin/x86_64-linux-gnu-ld: Symbolic link
+/bin/static-sh: Symbolic link
+/usr/bin/sg_emc_trespass: OK
+/bin/glib-compile-schemas: Symbolic link
+/usr/bin/ppmtopj: OK
+/usr/bin/pnmcat: OK
+/usr/bin/pdf2ps: OK
+/usr/bin/rgrep: OK
+/usr/bin/stat: OK
+/usr/bin/ngettext: OK
+/usr/bin/pgmtofs: OK
+/usr/bin/run-one: OK
+/usr/bin/xlsatoms: OK
+/usr/bin/grub-mkimage: OK
+/usr/bin/curl: OK
+/usr/bin/kreadconfig5: OK
+/usr/bin/xedit: OK
+/usr/bin/pnmcomp: OK
+/usr/bin/pamcut: OK
+/usr/bin/networkd-dispatcher: OK
+/usr/bin/pod2text: OK
+/usr/bin/gpg-wks-server: OK
+/bin/baloo_file_extractor: Symbolic link
+/usr/bin/rasttopnm: OK
+/usr/bin/fgconsole: OK
+/usr/bin/servicemenuinstaller: OK
+/usr/bin/gawk: OK
+/usr/bin/sg_sat_set_features: OK
+/usr/bin/kdeinit5_shutdown: OK
+/usr/bin/ppmbrighten: OK
+/usr/bin/sos: OK
+/usr/bin/gettext.sh: OK
+/usr/bin/x86_64-linux-gnu-elfedit: OK
+/usr/bin/sg_write_x: OK
+/usr/bin/x86_64-linux-gnu-c++filt: OK
+/usr/bin/free: OK
+/usr/bin/debconf-apt-progress: OK
+/usr/bin/pdfsig: OK
+/usr/bin/dpkg: OK
+/bin/iscsiadm: Symbolic link
+/usr/bin/sg_get_lba_status: OK
+/usr/bin/w: OK
+/usr/bin/getopt: OK
+/bin/gcc-ar-11: Symbolic link
+/usr/bin/snap: OK
+/usr/bin/pbmtoascii: OK
+/bin/pydoc3: Symbolic link
+/usr/bin/locale: OK
+/usr/bin/isdv4-serial-inputattach: OK
+/usr/bin/pdfseparate: OK
+/usr/bin/fmt: OK
+/usr/bin/x86_64-linux-gnu-g++-11: OK
+/bin/rbash: Symbolic link
+/usr/bin/chfn: OK
+/bin/X: Symbolic link
+/usr/bin/dnssec-importkey: OK
+/usr/bin/xstdcmap: OK
+/bin/lzmore: Symbolic link
+/usr/bin/sharesec: OK
+/bin/npm-packlist: Symbolic link
+/usr/bin/nmap: OK
+/usr/bin/resolvectl: OK
+/bin/x-session-manager: Symbolic link
+/usr/bin/gtk-launch: OK
+/usr/bin/pl2pm: OK
+/usr/bin/btrfs-select-super: OK
+/usr/bin/setlogcons: OK
+/usr/bin/ppmquant: OK
+/usr/bin/ppmtoyuvsplit: OK
+/usr/bin/ppmtopcx: OK
+/usr/bin/bunzip2: OK
+/usr/bin/grub-script-check: OK
+/usr/bin/import-im6.q16: OK
+/usr/bin/gapplication: OK
+/usr/bin/mtr: OK
+/usr/bin/sgitopnm: OK
+/usr/bin/bioradtopgm: OK
+/usr/bin/sg_rbuf: OK
+/usr/bin/byobu-select-profile: OK
+/usr/bin/make: OK
+/usr/bin/pbmtoicon: OK
+/usr/bin/clamsubmit: OK
+/usr/bin/ppmtogif: OK
+/usr/bin/byobu-ugraph: OK
+/bin/node-gyp: Symbolic link
+/usr/bin/sg_write_verify: OK
+/usr/bin/systemd-cgtop: OK
+/usr/bin/eyuvtoppm: OK
+/usr/bin/btrfs-image: OK
+/usr/bin/gzip: OK
+/bin/ruby: Symbolic link
+/bin/tap-parser: Symbolic link
+/usr/bin/cat: OK
+/usr/bin/byobu-ctrl-a: OK
+/usr/bin/ppmchange: OK
+/usr/bin/chcon: OK
+/usr/bin/byobu: OK
+/usr/bin/debconf-communicate: OK
+/bin/pbget: Symbolic link
+/usr/bin/ctail: OK
+/usr/bin/sg_rep_zones: OK
+/bin/python3: Symbolic link
+/usr/bin/taskset: OK
+/usr/bin/kiconfinder5: OK
+/usr/bin/iceauth: OK
+/bin/tdbbackup: Symbolic link
+/usr/bin/apt-key: OK
+/usr/bin/sg_xcopy: OK
+/usr/bin/tilix: OK
+/usr/bin/vmware-hgfsclient: OK
+/usr/bin/editres: OK
+/usr/bin/x86_64-linux-gnu-ld.gold: OK
+/usr/bin/aspell-import: OK
+/usr/bin/tabs: OK
+/usr/bin/pgmnoise: OK
+/usr/bin/tic: OK
+/usr/bin/xsetwacom: OK
+/usr/bin/sbigtopgm: OK
+/usr/bin/ppmtorgb3: OK
+/usr/bin/sg_sat_read_gplog: OK
+/bin/c++filt: Symbolic link
+/usr/bin/xlsfonts: OK
+/bin/write: Symbolic link
+/bin/psfstriptable: Symbolic link
+/usr/bin/host: OK
+/usr/bin/sg_ses: OK
+/bin/xzcmp: Symbolic link
+/bin/byobu-tmux: Symbolic link
+/bin/mailx: Symbolic link
+/usr/bin/dbus-uuidgen: OK
+/bin/ping6: Symbolic link
+/usr/bin/catppt: OK
+/usr/bin/tar: OK
+/usr/bin/pathchk: OK
+/usr/bin/neqn: OK
+/usr/bin/usb-devices: OK
+/usr/bin/preunzip: OK
+/usr/bin/perror: OK
+/usr/bin/sbvarsign: OK
+/usr/bin/mtr-packet: OK
+/usr/bin/stream-im6.q16: OK
+/usr/bin/openbox: OK
+/usr/bin/named-nzd2nzf: OK
+/usr/bin/lsmem: OK
+/usr/bin/ispell-wrapper: OK
+/usr/bin/obxprop: OK
+/usr/bin/pinky: OK
+/usr/bin/typeprof3.0: OK
+/usr/bin/scsi_satl: OK
+/usr/bin/tbl: OK
+/bin/nawk: Symbolic link
+/usr/bin/xcursorgen: OK
+/usr/bin/memusagestat: OK
+/bin/gcc-ranlib: Symbolic link
+/usr/bin/grub-mkfont: OK
+/usr/bin/pnmhistmap: OK
+/usr/bin/apt-config: OK
+/usr/bin/dmesg: OK
+/usr/bin/sg_reassign: OK
+/usr/bin/env: OK
+/usr/bin/eject: OK
+/usr/bin/ln: OK
+/usr/bin/dpkg-split: OK
+/usr/bin/sg_turs: OK
+/usr/bin/bdftruncate: OK
+/bin/gcov-dump-11: Symbolic link
+/usr/bin/fc-query: OK
+/usr/bin/x86_64-linux-gnu-gcov-tool-11: OK
+/usr/bin/nvidia-detector: OK
+/usr/bin/mailmail3: OK
+/usr/bin/pbmtoatk: OK
+/usr/bin/ppmdist: OK
+/bin/lzegrep: Symbolic link
+/usr/bin/libwacom-list-devices: OK
+/bin/captoinfo: Symbolic link
+/usr/bin/tput: OK
+/usr/bin/xargs: OK
+/usr/bin/grotty: OK
+/usr/bin/pdffonts: OK
+/usr/bin/bzgrep: OK
+/usr/bin/dirmngr: OK
+/usr/bin/newgrp: OK
+/usr/bin/corelist: OK
+/usr/bin/sg_read: OK
+/usr/bin/pbmtoepson: OK
+/usr/bin/broadwayd: OK
+/usr/bin/man-recode: OK
+/usr/bin/cksum: OK
+/usr/bin/sync: OK
+/usr/bin/pdftoppm: OK
+/usr/bin/dir: OK
+/usr/bin/ppmmix: OK
+/usr/bin/ppmtopi1: OK
+/bin/infotocap: Symbolic link
+/usr/bin/ps: OK
+/bin/pybabel: Symbolic link
+/usr/bin/piconv: OK
+/usr/bin/xdg-mime: OK
+/bin/keep-one-running: Symbolic link
+/bin/bzcmp: Symbolic link
+/usr/bin/cmp: OK
+/bin/see: Symbolic link
+/usr/bin/ximtoppm: OK
+/usr/bin/growpart: OK
+/usr/bin/watch: OK
+/usr/bin/pnmpad: OK
+/usr/bin/montage-im6.q16: OK
+/usr/bin/ssh: OK
+/usr/bin/prtstat: OK
+/bin/opener: Symbolic link
+/usr/bin/conch3: OK
+/usr/bin/ntfsfallocate: OK
+/bin/lzdiff: Symbolic link
+/usr/bin/gtk-update-icon-cache: OK
+/usr/bin/xdg-desktop-icon: OK
+/bin/x86_64-linux-gnu-g++: Symbolic link
+/usr/bin/ri3.0: OK
+/usr/bin/fwupdate: OK
+/usr/bin/xset: OK
+/usr/bin/bundle3.0: OK
+/usr/bin/fc-pattern: OK
+/bin/bmptoppm: Symbolic link
+/bin/ranlib: Symbolic link
+/usr/bin/iconv: OK
+/usr/bin/fuser: OK
+/usr/bin/session-migration: OK
+/usr/bin/ppmflash: OK
+/usr/bin/mcookie: OK
+/usr/bin/gslp: OK
+/usr/bin/dh_perl_openssl: OK
+/usr/bin/paste: OK
+/usr/bin/gpg-zip: OK
+/usr/bin/showkey: OK
+/bin/pdb3.10: Symbolic link
+/usr/bin/touch: OK
+/usr/bin/identify-im6.q16: OK
+/usr/bin/debian-distro-info: OK
+/usr/bin/su: OK
+/usr/bin/printenv: OK
+/bin/animate: Symbolic link
+/usr/bin/scriptreplay: OK
+/usr/bin/setfattr: OK
+/usr/bin/unicode_stop: OK
+/bin/pico: Symbolic link
+/usr/bin/xauth: OK
+/bin/semver: Symbolic link
+/usr/bin/xz: OK
+/usr/bin/catdoc: OK
+/usr/bin/rmdir: OK
+/usr/bin/ipcmk: OK
+/usr/bin/run-with-aspell: OK
+/usr/bin/precat: OK
+/bin/esparse: Symbolic link
+/usr/bin/envsubst: OK
+/bin/as: Symbolic link
+/bin/reset: Symbolic link
+/usr/bin/dnssec-cds: OK
+/usr/bin/passwd: OK
+/bin/x86_64-linux-gnu-gcov-tool: Symbolic link
+/usr/bin/pbmtogo: OK
+/usr/bin/xsubpp: OK
+/usr/bin/xzmore: OK
+/bin/systemd: Symbolic link
+/usr/bin/xmessage: OK
+/usr/bin/gdk-pixbuf-pixdata: OK
+/usr/bin/over: OK
+/usr/bin/pnmsmooth: OK
+/usr/bin/baloo_filemetadata_temp_extractor: OK
+/usr/bin/mysqladmin: OK
+/usr/bin/sginfo: OK
+/usr/bin/getfattr: OK
+/usr/bin/systemd-cryptenroll: OK
+/usr/bin/pkaction: OK
+/bin/convert: Symbolic link
+/usr/bin/wc: OK
+/usr/bin/comm: OK
+/usr/bin/tail: OK
+/usr/bin/xkbwatch: OK
+/usr/bin/intel-virtual-output: OK
+/usr/bin/sgm_dd: OK
+/usr/bin/yuvtoppm: OK
+/usr/bin/zstdgrep: OK
+/usr/bin/soelim: OK
+/usr/bin/pnmhisteq: OK
+/usr/bin/ps2ps2: OK
+/bin/POST: Symbolic link
+/usr/bin/protocoltojson: OK
+/usr/bin/pidwait: OK
+/bin/nisdomainname: Symbolic link
+/usr/bin/colrm: OK
+/usr/bin/x86_64-linux-gnu-cpp-11: OK
+/usr/bin/ldd: OK
+/usr/bin/ppmtoyuv: OK
+/usr/bin/ntfsinfo: OK
+/usr/bin/dpkg-query: OK
+/bin/pro: Symbolic link
+/usr/bin/unexpand: OK
+/usr/bin/lessecho: OK
+/usr/bin/pdfdetach: OK
+/bin/g++: Symbolic link
+/usr/bin/gtk-encode-symbolic-svg: OK
+/usr/bin/sg_stream_ctl: OK
+/usr/bin/aa-features-abi: OK
+/usr/bin/pnmcrop: OK
+/usr/bin/systemd-escape: OK
+/usr/bin/pdftohtml: OK
+/usr/bin/truncate: OK
+/usr/bin/cmuwmtopbm: OK
+/bin/lessfile: Symbolic link
+/bin/import-im6: Symbolic link
+/usr/bin/pyserial-miniterm: OK
+/usr/bin/ntfscmp: OK
+/usr/bin/od: OK
+/bin/objcopy: Symbolic link
+/usr/bin/renice: OK
+/usr/bin/ucf: OK
+/usr/bin/install: OK
+/bin/col7: Symbolic link
+/usr/bin/gemtopnm: OK
+/usr/bin/x86_64-linux-gnu-addr2line: OK
+/usr/bin/loadkeys: OK
+/usr/bin/samba-regedit: OK
+/usr/bin/xcalc: OK
+/bin/g++-11: Symbolic link
+/usr/bin/sg_modes: OK
+/usr/bin/grub-glue-efi: OK
+/usr/bin/brushtopbm: OK
+/usr/bin/nstat: OK
+/usr/bin/encguess: OK
+/usr/bin/byobu-status-detail: OK
+/usr/bin/nl: OK
+/usr/bin/ps2pdfwr: OK
+/usr/bin/x86_64-linux-gnu-dwp: OK
+/usr/bin/wpa_passphrase: OK
+/usr/bin/pjtoppm: OK
+/usr/bin/zeisstopnm: OK
+/usr/bin/jsonschema: OK
+/bin/X11: Symbolic link
+/usr/bin/ppmshift: OK
+/usr/bin/rkhunter: OK
+/usr/bin/crontab: OK
+/bin/apport-collect: Symbolic link
+/usr/bin/dpkg-buildflags: OK
+/usr/bin/xlsclients: OK
+/usr/bin/composite-im6.q16: OK
+/usr/bin/pbmtextps: OK
+/usr/bin/pnmtotiffcmyk: OK
+/usr/bin/memusage: OK
+/usr/bin/toe: OK
+/usr/bin/json_pp: OK
+/usr/bin/palmtopnm: OK
+/usr/bin/gsdj: OK
+/bin/col2: Symbolic link
+/usr/bin/xconsole: OK
+/usr/bin/git: OK
+/usr/bin/ssh-keygen: OK
+/usr/bin/yes: OK
+/usr/bin/kde-geo-uri-handler: OK
+/usr/bin/ubuntu-advantage: OK
+/usr/bin/byobu-layout: OK
+/usr/bin/chage: OK
+/usr/bin/gdbus: OK
+/usr/bin/nmblookup: OK
+/usr/bin/openvt: OK
+/usr/bin/apt-mark: OK
+/bin/fwupdagent: Symbolic link
+/usr/bin/grub-mkpasswd-pbkdf2: OK
+/bin/ping4: Symbolic link
+/usr/bin/ntfsfix: OK
+/usr/bin/sg_luns: OK
+/usr/bin/rawtopgm: OK
+/bin/col8: Symbolic link
+/usr/bin/whoami: OK
+/usr/bin/chrt: OK
+/usr/bin/pnmindex: OK
+/usr/bin/irb3.0: OK
+/usr/bin/vmware-vmblock-fuse: OK
+/usr/bin/bpytop: OK
+/usr/bin/ssh-agent: OK
+/usr/bin/debconf: OK
+/usr/bin/conjure-im6.q16: OK
+/usr/bin/pr: OK
+/usr/bin/kbuildsycoca5: OK
+/usr/bin/tgatoppm: OK
+/usr/bin/gpgsm: OK
+/bin/gtbl: Symbolic link
+/usr/bin/sftp: OK
+/usr/bin/xconv.pl: OK
+/usr/bin/funzip: OK
+/usr/bin/realpath: OK
+/bin/rmail: Symbolic link
+/usr/bin/sg_start: OK
+/usr/bin/zipdetails: OK
+/bin/distro-info: Symbolic link
+/usr/bin/scandeps: OK
+/usr/bin/asciitopgm: OK
+/usr/bin/apt-ftparchive: OK
+/usr/bin/grub-menulst2cfg: OK
+/usr/bin/pmap: OK
+/usr/bin/resizecons: OK
+/usr/bin/dirmngr-client: OK
+/usr/bin/chgrp: OK
+/usr/bin/btrfstune: OK
+/usr/bin/enscript: OK
+/usr/bin/utmpdump: OK
+/bin/pager: Symbolic link
+/usr/bin/pzstd: OK
+/bin/GET: Symbolic link
+/usr/bin/stty: OK
+/usr/bin/xkill: OK
+/usr/bin/byobu-keybindings: OK
+/usr/bin/unshare: OK
+/bin/geqn: Symbolic link
+/usr/bin/byobu-shell: OK
+/usr/bin/rsync: OK
+/usr/bin/fakeroot-sysv: OK
+/usr/bin/scsi_logging_level: OK
+/usr/bin/mawk: OK
+/usr/bin/lsblk: OK
+/usr/bin/xmag: OK
+/bin/rimraf: Symbolic link
+/usr/bin/eatmydata: OK
+/usr/bin/pamdeinterlace: OK
+/usr/bin/lowntfs-3g: OK
+/bin/ubuntu-bug: Symbolic link
+/usr/bin/add-apt-repository: OK
+/usr/bin/splain: OK
+/usr/bin/whiptail: OK
+/usr/bin/wordview: OK
+/usr/bin/ntfsls: OK
+/usr/bin/ischroot: OK
+/usr/bin/sldtoppm: OK
+/usr/bin/runcon: OK
+/usr/bin/cftp3: OK
+/usr/bin/catman: OK
+/usr/bin/uptime: OK
+/usr/bin/xrefresh: OK
+/bin/conjure-im6: Symbolic link
+/usr/bin/ntfsdecrypt: OK
+/usr/bin/csplit: OK
+/usr/bin/pnmtoxwd: OK
+/usr/bin/dircolors: OK
+/bin/jsondiff: Symbolic link
+/bin/c99: Symbolic link
+/usr/bin/sg_write_same: OK
+/usr/bin/bmtoa: OK
+/bin/unzstd: Symbolic link
+/usr/bin/sliceprint: OK
+/usr/bin/efibootmgr: OK
+/usr/bin/dotlockfile: OK
+/usr/bin/logger: OK
+/usr/bin/namei: OK
+/usr/bin/pnmenlarge: OK
+/usr/bin/sos-collector: OK
+/usr/bin/sg_timestamp: OK
+/bin/print: Symbolic link
+/usr/bin/man: OK
+/usr/bin/nsenter: OK
+/usr/bin/dbus-send: OK
+/usr/bin/uname: OK
+/usr/bin/cpan5.34-x86_64-linux-gnu: OK
+/bin/Mail: Symbolic link
+/usr/bin/pbmtoepsi: OK
+/usr/bin/mk_modmap: OK
+/bin/unattended-upgrades: Symbolic link
+/bin/ld: Symbolic link
+/usr/bin/uncompress: OK
+/usr/bin/pnmtojpeg: OK
+/usr/bin/linux-boot-prober: OK
+/usr/bin/grops: OK
+/bin/apropos: Symbolic link
+/usr/bin/systemctl: OK
+/usr/bin/tnftp: OK
+/usr/bin/zcat: OK
+/usr/bin/dpkg-parsechangelog: OK
+/usr/bin/mksquashfs: OK
+/usr/bin/perlbug: OK
+/usr/bin/xditview: OK
+/usr/bin/x86_64-linux-gnu-strings: OK
+/usr/bin/xsetroot: OK
+/usr/bin/lspgpot: OK
+/usr/bin/infocmp: OK
+/usr/bin/smbpasswd: OK
+/usr/bin/xkbbell: OK
+/usr/bin/umount: OK
+/usr/bin/login: OK
+/usr/bin/openssl: OK
+/usr/bin/mkdir: OK
+/usr/bin/locale-check: OK
+/usr/bin/gtk-query-settings: OK
+/bin/view: Symbolic link
+/usr/bin/hwe-support-status: OK
+/usr/bin/sha512sum: OK
+/usr/bin/byobu-silent: OK
+/usr/bin/su-to-root: OK
+/bin/tap: Symbolic link
+/usr/bin/cloud-init: OK
+/usr/bin/cp: OK
+/usr/bin/zsh: OK
+/bin/composite: Symbolic link
+/usr/bin/qrttoppm: OK
+/usr/bin/pnmpaste: OK
+/usr/bin/prlimit: OK
+/usr/bin/which.debianutils: OK
+/usr/bin/troff: OK
+/usr/bin/sg_rmsn: OK
+/usr/bin/obconf: OK
+/usr/bin/compare-im6.q16: OK
+/usr/bin/false: OK
+/usr/bin/xkbcomp: OK
+/usr/bin/sed: OK
+/bin/arborist: Symbolic link
+/usr/bin/pbmtoppa: OK
+/bin/mysqlrepair: Symbolic link
+/usr/bin/choom: OK
+/usr/bin/fakeroot-tcp: OK
+/usr/bin/grub-syslinux2cfg: OK
+/usr/bin/kpackagelauncherqml: OK
+/usr/bin/dbxtool: OK
+/usr/bin/kwallet-query: OK
+/usr/bin/pamdice: OK
+/usr/bin/mysql_migrate_keyring: OK
+/bin/objdump: Symbolic link
+/usr/bin/bashbug: OK
+/usr/bin/setmetamode: OK
+/bin/gcc-ranlib-11: Symbolic link
+/usr/bin/ntfscluster: OK
+/bin/montage-im6: Symbolic link
+/usr/bin/who: OK
+/usr/bin/xdg-screensaver: OK
+/usr/bin/split: OK
+/bin/rsh: Symbolic link
+/usr/bin/partx: OK
+/usr/bin/xvidtune: OK
+/usr/bin/stdbuf: OK
+/usr/bin/keditbookmarks: OK
+/usr/bin/ssh-copy-id: OK
+/usr/bin/diff: OK
+/usr/bin/sg_compare_and_write: OK
+/usr/bin/nohup: OK
+/usr/bin/pbmtopsg3: OK
+/usr/bin/ucs2any: OK
+/usr/bin/g3topbm: OK
+/usr/bin/vmstat: OK
+/usr/bin/rake: OK
+/usr/bin/libnetcfg: OK
+/usr/bin/ppmtopict: OK
+/usr/bin/ed: OK
+/usr/bin/script: OK
+/usr/bin/kwalletd5: OK
+/usr/bin/icontopbm: OK
+/usr/bin/delpart: OK
+/usr/bin/ppm3d: OK
+/usr/bin/bzmore: OK
+/usr/bin/x86_64-linux-gnu-gprof: OK
+/usr/bin/automat-visualize3: OK
+/usr/bin/pamstretch: OK
+/usr/bin/ppmfade: OK
+/usr/bin/byobu-launch: OK
+/usr/bin/grep: OK
+/usr/bin/ntfscat: OK
+/usr/bin/mdatopbm: OK
+/usr/bin/xeyes: OK
+/usr/bin/setpriv: OK
+/usr/bin/perl5.34-x86_64-linux-gnu: OK
+/usr/bin/pgmtopbm: OK
+/usr/bin/kglobalaccel5: OK
+/usr/bin/sg_rep_pip: OK
+/usr/bin/ppmrainbow: OK
+/usr/bin/lsns: OK
+/usr/bin/fincore: OK
+/usr/bin/sg_bg_ctl: OK
+/usr/bin/file: OK
+/usr/bin/write.ul: OK
+/usr/bin/efibootdump: OK
+/bin/nc: Symbolic link
+/usr/bin/gsdj500: OK
+/usr/bin/ppmtopuzz: OK
+/usr/bin/mkfontdir: OK
+/bin/animate-im6: Symbolic link
+/usr/bin/JxrEncApp: OK
+/usr/bin/gouldtoppm: OK
+/usr/bin/id: OK
+/usr/bin/setarch: OK
+/usr/bin/systemd-machine-id-setup: OK
+/usr/bin/dash: OK
+/usr/bin/vmware-checkvm: OK
+/usr/bin/logname: OK
+/usr/bin/nmtui: OK
+/usr/bin/x86_64-linux-gnu-lto-dump-11: OK
+/usr/bin/x86_64-linux-gnu-size: OK
+/usr/bin/time: OK
+/bin/stream: Symbolic link
+/usr/bin/ppmdim: OK
+/usr/bin/rotatelogs: OK
+/bin/compare-im6: Symbolic link
+/usr/bin/scp: OK
+/usr/bin/dpkg-genbuildinfo: OK
+/usr/bin/kbdinfo: OK
+/usr/bin/byobu-launcher-uninstall: OK
+/usr/bin/sg_prevent: OK
+/usr/bin/bzcat: OK
+/usr/bin/lesspipe: OK
+/usr/bin/my_print_defaults: OK
+/usr/bin/xcmsdb: OK
+/bin/size: Symbolic link
+/usr/bin/ppmtomap: OK
+/usr/bin/oem-getlogs: OK
+/usr/bin/bootctl: OK
+/usr/bin/sirtopnm: OK
+/usr/bin/fallocate: OK
+/bin/esvalidate: Symbolic link
+/usr/bin/mysqlcheck: OK
+/usr/bin/xwdtopnm: OK
+/bin/lastb: Symbolic link
+/bin/zstdcat: Symbolic link
+/usr/bin/dnssec-settime: OK
+/usr/bin/named-checkzone: OK
+/usr/bin/bsd-mailx: OK
+/usr/bin/mysqlimport: OK
+/usr/bin/x86_64-linux-gnu-strip: OK
+/usr/bin/mountpoint: OK
+/bin/sqfstar: Symbolic link
+/usr/bin/xsetpointer: OK
+/usr/bin/pgmedge: OK
+/usr/bin/mysql_tzinfo_to_sql: OK
+/usr/bin/mv: OK
+/usr/bin/pamstack: OK
+/usr/bin/faillog: OK
+/usr/bin/pbmtomacp: OK
+/usr/bin/xdpyinfo: OK
+/usr/bin/pbmtox10bm: OK
+/bin/pacote: Symbolic link
+/usr/bin/md5sum: OK
+/usr/bin/perlivp: OK
+/usr/bin/lnstat: OK
+/usr/bin/update-alternatives: OK
+/usr/bin/x86_64-linux-gnu-gcc-ranlib-11: OK
+/usr/bin/red: OK
+/usr/bin/sftp-state: OK
+/bin/sqfscat: Symbolic link
+/usr/bin/hexdump: OK
+/usr/bin/lwp-download: OK
+/usr/bin/ntfsmove: OK
+/bin/psfaddtable: Symbolic link
+/usr/bin/pamfile: OK
+/usr/bin/sleep: OK
+/usr/bin/localectl: OK
+/usr/bin/col1: OK
+/bin/x86_64-linux-gnu-gcc-nm: Symbolic link
+/usr/bin/systemd-socket-activate: OK
+/bin/gcc: Symbolic link
+/usr/bin/routel: OK
+/usr/bin/spctoppm: OK
+/usr/bin/savelog: OK
+/usr/bin/pbmto10x: OK
+/bin/btrfsck: Symbolic link
+/usr/bin/xfontsel: OK
+/usr/bin/byobu-ulevel: OK
+/usr/bin/perl5.34.0: OK
+/usr/bin/dbwrap_tool: OK
+/usr/bin/xinit: OK
+/bin/x-window-manager: Symbolic link
+/bin/ypdomainname: Symbolic link
+/bin/ex: Symbolic link
+/usr/bin/findmnt: OK
+/usr/bin/gpgv: OK
+/usr/bin/mokutil: OK
+/usr/bin/pnmcolormap: OK
+/usr/bin/mysql_secure_installation: OK
+/bin/brave-browser: Symbolic link
+/usr/bin/myisam_ftdump: OK
+/usr/bin/macptopbm: OK
+/usr/bin/rm: OK
+/usr/bin/ppmtompeg: OK
+/usr/bin/ppmhist: OK
+/usr/bin/pkcheck: OK
+/usr/bin/znew: OK
+/usr/bin/dpkg-scanpackages: OK
+/bin/awk: Symbolic link
+/usr/bin/xrdb: OK
+/usr/bin/column: OK
+/usr/bin/btrfs-convert: OK
+/usr/bin/byobu-enable-prompt: OK
+/usr/bin/sg_ses_microcode: OK
+/usr/bin/showconsolefont: OK
+/bin/display: Symbolic link
+/usr/bin/byobu-status: OK
+/usr/bin/pnmrotate: OK
+/usr/bin/pnmsplit: OK
+/usr/bin/mysql: OK
+/usr/bin/named-rrchecker: OK
+/usr/bin/nproc: OK
+/bin/rcp: Symbolic link
+/usr/bin/df: OK
+/usr/bin/ps2ps: OK
+/usr/bin/tempfile: OK
+/bin/x86_64-linux-gnu-gcc-ar: Symbolic link
+/bin/rtstat: Symbolic link
+/usr/bin/mysqlbinlog: OK
+/usr/bin/sftp-admin: OK
+/usr/bin/ss: OK
+/usr/bin/perl: OK
+/bin/c89: Symbolic link
+/usr/bin/pgmcrater: OK
+/usr/bin/pgmbentley: OK
+/usr/bin/lftpget: OK
+/usr/bin/systemd-tmpfiles: OK
+/bin/rvim: Symbolic link
+/usr/bin/skill: OK
+/usr/bin/numfmt: OK
+/usr/bin/dpkg-genchanges: OK
+/usr/bin/giftopnm: OK
+/usr/bin/gdk-pixbuf-thumbnailer: OK
+/usr/bin/balooshow: OK
+/usr/bin/zgrep: OK
+/usr/bin/scsi_temperature: OK
+/usr/bin/debconf-copydb: OK
+/usr/bin/quirks-handler: OK
+/bin/ri: Symbolic link
+/usr/bin/factor: OK
+/usr/bin/gpg-agent: OK
+/usr/bin/btrfs: OK
+/usr/bin/hardlink: OK
+/usr/bin/ppmdither: OK
+/usr/bin/chown: OK
+/usr/bin/nroff: OK
+/usr/bin/arch: OK
+/usr/bin/kquitapp5: OK
+/usr/bin/scsi_readcap: OK
+/usr/bin/systemd-cat: OK
+/usr/bin/firefox: OK
+/usr/bin/tmux: OK
+/bin/x86_64-linux-gnu-gcov: Symbolic link
+/usr/bin/display-im6.q16: OK
+/bin/pgmnorm: Symbolic link
+/usr/bin/dpkg-realpath: OK
+/bin/vi: Symbolic link
+/usr/bin/nc.openbsd: OK
+/usr/bin/dpkg-name: OK
+/usr/bin/egrep: OK
+/usr/bin/mvxattr: OK
+/usr/bin/dnssec-revoke: OK
+/usr/bin/ps2ascii: OK
+/usr/bin/udevadm: OK
+/usr/bin/chvt: OK
+/usr/bin/dpkg-source: OK
+/usr/bin/zipnote: OK
+/usr/bin/screendump: OK
+/usr/bin/pbmtoxbm: OK
+/usr/bin/sha1sum: OK
+/bin/import: Symbolic link
+/usr/bin/sg_verify: OK
+/usr/bin/isdv4-serial-debugger: OK
+/usr/bin/deallocvt: OK
+/usr/bin/pbmtoybm: OK
+/usr/bin/cloud-id: OK
+/bin/rdoc: Symbolic link
+/usr/bin/mysqld_multi: OK
+/bin/sh: Symbolic link
+/usr/bin/pnmconvol: OK
+/bin/stream-im6: Symbolic link
+/usr/bin/patch: OK
+/usr/bin/jpegtopnm: OK
+/usr/bin/pyserial-ports: OK
+/bin/nm: Symbolic link
+/usr/bin/apt-get: OK
+/usr/bin/gdm-control: OK
+/usr/bin/helpztags: OK
+/bin/fakeroot: Symbolic link
+/bin/mailq: Symbolic link
+/usr/bin/ntfy: OK
+/usr/bin/setkeycodes: OK
+/bin/compose: Symbolic link
+/usr/bin/smbcontrol: OK
+/usr/bin/word-list-compress: OK
+/usr/bin/pphs: OK
+/usr/bin/ucfr: OK
+/usr/bin/ppmforge: OK
+/usr/bin/tset: OK
+/usr/bin/pic: OK
+/usr/bin/ppmtotga: OK
+/usr/bin/keyring: OK
+/usr/bin/oLschema2ldif: OK
+/bin/cc: Symbolic link
+/bin/ps2txt: Symbolic link
+/usr/bin/scsi_ready: OK
+/usr/bin/pldd: OK
+/usr/bin/ppmpat: OK
+/usr/bin/debconf-set-selections: OK
+/usr/bin/ntfstruncate: OK
+/bin/pinentry: Symbolic link
+/usr/bin/pbmtoplot: OK
+/bin/gcc-nm-11: Symbolic link
+/usr/bin/pnmtorle: OK
+/usr/bin/whatis: OK
+/bin/col4: Symbolic link
+/usr/bin/pbmtext: OK
+/usr/bin/lexgrog: OK
+/usr/bin/pnmtofiasco: OK
+/usr/bin/pdfattach: OK
+/usr/bin/xman: OK
+/usr/bin/tee: OK
+/usr/bin/watchgnupg: OK
+/usr/bin/ktelnetservice5: OK
+/bin/tap-mocha-reporter: Symbolic link
+/bin/strip: Symbolic link
+/usr/bin/zegrep: OK
+/usr/bin/VGAuthService: OK
+/bin/compare: Symbolic link
+/usr/bin/ppmtoneo: OK
+/bin/pnminterp: Symbolic link
+/usr/bin/ssh-add: OK
+/usr/bin/plymouth: OK
+/usr/bin/expiry: OK
+/usr/bin/mt-gnu: OK
+/usr/bin/systemd-analyze: OK
+/usr/bin/groups: OK
+/usr/bin/lftp: OK
+/usr/bin/pbmupc: OK
+/usr/bin/mysqld_safe: OK
+/usr/bin/arpaname: OK
+/usr/bin/mkfontscale: OK
+/usr/bin/gpgcompose: OK
+/usr/bin/[: OK
+/usr/bin/bitmap: OK
+/usr/bin/ab: OK
+/usr/bin/colcrt: OK
+/bin/lzless: Symbolic link
+/usr/bin/lispmtopgm: OK
+/bin/zstdmt: Symbolic link
+/usr/bin/ppmmake: OK
+/usr/bin/b2sum: OK
+/usr/bin/systemd-mount: OK
+/usr/bin/find: OK
+/usr/bin/JxrDecApp: OK
+/usr/bin/cut: OK
+/usr/bin/listres: OK
+/usr/bin/logresolve: OK
+/usr/bin/x86_64-linux-gnu-nm: OK
+/usr/bin/pgmslice: OK
+/usr/bin/mesg: OK
+/usr/bin/rev: OK
+/usr/bin/sensible-pager: OK
+/usr/bin/sg_sat_identify: OK
+/usr/bin/neotoppm: OK
+/usr/bin/vmware-rpctool: OK
+/bin/pstree.x11: Symbolic link
+/usr/bin/sg_copy_results: OK
+/usr/bin/fiascotopnm: OK
+/usr/bin/ubuntu-security-status: OK
+/usr/bin/scsi_stop: OK
+/usr/bin/pnmarith: OK
+/bin/ppmtojpeg: Symbolic link
+/usr/bin/kshell5: OK
+/usr/bin/gresource: OK
+/usr/bin/du: OK
+/usr/bin/kbxutil: OK
+/usr/bin/htop: OK
+/bin/ld.bfd: Symbolic link
+/usr/bin/pgmramp: OK
+/bin/lzcat: Symbolic link
+/bin/netcat: Symbolic link
+/usr/bin/ilbmtoppm: OK
+/usr/bin/uniq: OK
+/usr/bin/pbmtopi3: OK
+/bin/gcov-tool: Symbolic link
+/usr/bin/rake3.0: OK
+/usr/bin/fc-scan: OK
+/usr/bin/chmod: OK
+/bin/gcc-nm: Symbolic link
+/usr/bin/grub-mknetdir: OK
+/usr/bin/mysqlshow: OK
+/usr/bin/scrot: OK
+/bin/run-this-one: Symbolic link
+/usr/bin/byobu-config: OK
+/usr/bin/pnmfile: OK
+/bin/rzsh: Symbolic link
+/usr/bin/setpci: OK
+/usr/bin/pstopnm: OK
+/bin/vim: Symbolic link
+/usr/bin/kwriteconfig5: OK
+/usr/bin/top: OK
+/bin/display-im6: Symbolic link
+/usr/bin/base64: OK
+/usr/bin/perldoc: OK
+/usr/bin/tr: OK
+/usr/bin/pnmtosir: OK
+/usr/bin/mtvtoppm: OK
+/usr/bin/htdigest: OK
+/usr/bin/ptardiff: OK
+/usr/bin/os-prober: OK
+/usr/bin/prezip-bin: OK
+/usr/bin/systemd-stdio-bridge: OK
+/usr/bin/fonttosfnt: OK
+/usr/bin/pinentry-curses: OK
+/usr/bin/xxd: OK
+/usr/bin/net: OK
+/usr/bin/rawtoppm: OK
+/usr/bin/pgmtolispm: OK
+/usr/bin/shred: OK
+/usr/bin/sg_unmap: OK
+/usr/bin/mtrace: OK
+/usr/bin/sg_dd: OK
+/usr/bin/dh_bash-completion: OK
+/usr/bin/unlink: OK
+/usr/bin/select-default-iwrap: OK
+/usr/bin/sha256sum: OK
+/usr/bin/xzdiff: OK
+/bin/py3versions: Symbolic link
+/usr/bin/sg_raw: OK
+/usr/bin/trial3: OK
+/usr/bin/dpkg-divert: OK
+/usr/bin/nsec3hash: OK
+/usr/bin/prove: OK
+/usr/bin/cvt: OK
+/usr/bin/apport-cli: OK
+/bin/brave-browser-stable: Symbolic link
+/usr/bin/linux-update-symlinks: OK
+/bin/lzma: Symbolic link
+/usr/bin/aa-exec: OK
+/usr/bin/vm-support: OK
+/usr/bin/rdma: OK
+/usr/bin/ul: OK
+/usr/bin/xdg-open: OK
+/bin/convert-im6: Symbolic link
+/usr/bin/systemd-sysext: OK
+/usr/bin/xdg-desktop-menu: OK
+/bin/lto-dump-11: Symbolic link
+/usr/bin/xwininfo: OK
+/usr/bin/winicontoppm: OK
+/bin/dwp: Symbolic link
+/usr/bin/py3compile: OK
+/usr/bin/nano: OK
+/usr/bin/pi3topbm: OK
+/bin/js-yaml: Symbolic link
+/usr/bin/ibd2sdi: OK
+/usr/bin/sg_safte: OK
+/bin/run-one-until-failure: Symbolic link
+/usr/bin/pbmtoptx: OK
+/usr/bin/fgrep: OK
+/usr/bin/oclock: OK
+/usr/bin/pbmtogem: OK
+/usr/bin/codepage: OK
+/usr/bin/zmore: OK
+/usr/bin/viewres: OK
+/usr/bin/vmware-vgauth-cmd: OK
+/usr/bin/dbus-cleanup-sockets: OK
+/usr/bin/make-first-existing-target: OK
+/usr/bin/rgb3toppm: OK
+/usr/bin/ppmtoilbm: OK
+/usr/bin/dpkg-scansources: OK
+/usr/bin/mkfifo: OK
+/usr/bin/dig: OK
+/bin/rnano: Symbolic link
+/usr/bin/xdg-user-dir: OK
+/usr/bin/sensible-editor: OK
+/usr/bin/xmodmap: OK
+/usr/bin/sg_reset_wp: OK
+/usr/bin/update-menus: OK
+/bin/pygettext3: Symbolic link
+/usr/bin/pdftops: OK
+/bin/hd: Symbolic link
+/usr/bin/base32: OK
+/usr/bin/x86_64-linux-gnu-gcov-11: OK
+/usr/bin/dpkg-architecture: OK
+/usr/bin/xvminitoppm: OK
+/usr/bin/dd: OK
+/bin/pbputs: Symbolic link
+/bin/xzcat: Symbolic link
+/bin/domainname: Symbolic link
+/usr/bin/ls: OK
+/bin/xzegrep: Symbolic link
+/bin/md5sum.textutils: Symbolic link
+/usr/bin/run-mailcap: OK
+/bin/vimdiff: Symbolic link
+/usr/bin/gpgsplit: OK
+/usr/bin/htcacheclean: OK
+/usr/bin/hipstopgm: OK
+/usr/bin/Xorg: OK
+/usr/bin/ppmrelief: OK
+/usr/bin/pbmlife: OK
+/bin/ubuntu-core-launcher: Symbolic link
+/usr/bin/kcookiejar5: OK
+/bin/dnsdomainname: Symbolic link
+/bin/pkill: Symbolic link
+/usr/bin/tty: OK
+/usr/bin/hostnamectl: OK
+/usr/bin/states: OK
+/usr/bin/unzipsfx: OK
+/usr/bin/wdctl: OK
+/usr/bin/zdiff: OK
+/usr/bin/lslocks: OK
+/usr/bin/ps2pdf12: OK
+/usr/bin/xwud: OK
+/usr/bin/zsh5: OK
+/usr/bin/pdfimages: OK
+/usr/bin/nmcli: OK
+/usr/bin/pfbtopfa: OK
+/usr/bin/pkcon: OK
+/usr/bin/sg_scan: OK
+/usr/bin/st4topgm: OK
+/usr/bin/dpkg-trigger: OK
+/usr/bin/h2ph: OK
+/usr/bin/twist3: OK
+/bin/chardet: Symbolic link
+/usr/bin/mogrify-im6.q16: OK
+/usr/bin/apt-extracttemplates: OK
+/usr/bin/telnet.netkit: OK
+/bin/unlzma: Symbolic link
+/usr/bin/kill: OK
+/usr/bin/nslookup: OK
+/usr/bin/ppmtoicr: OK
+/usr/bin/pbmtopgm: OK
+/usr/bin/bzdiff: OK
+/usr/bin/pgmtexture: OK
+/usr/bin/pygettext3.10: OK
+/usr/bin/erb3.0: OK
+/bin/xzfgrep: Symbolic link
+/usr/bin/fitstopnm: OK
+/usr/bin/scsi_mandat: OK
+/bin/x86_64-linux-gnu-gcc-ranlib: Symbolic link
+/bin/c++: Symbolic link
+/usr/bin/named-journalprint: OK
+/bin/git-upload-archive: Symbolic link
+/usr/bin/xev: OK
+/usr/bin/xgamma: OK
+/usr/bin/unsquashfs: OK
+/usr/bin/ionice: OK
+/usr/bin/systemd-ask-password: OK
+/usr/bin/linux-version: OK
+/bin/gnome-www-browser: Symbolic link
+/bin/elfedit: Symbolic link
+/usr/bin/less: OK
+/bin/identify-im6: Symbolic link
+/bin/x86_64-linux-gnu-gold: Symbolic link
+/usr/bin/systemd-tty-ask-password-agent: OK
+/bin/bzless: Symbolic link
+/bin/pgmoil: Symbolic link
+/bin/wscat: Symbolic link
+/usr/bin/ppmtoleaf: OK
+/usr/bin/pbmtolj: OK
+/usr/bin/select-editor: OK
+/usr/bin/mdig: OK
+/usr/bin/journalctl: OK
+/bin/x86_64: Symbolic link
+/usr/bin/kded5: OK
+/usr/bin/lcf: OK
+/usr/bin/vim.basic: OK
+/usr/bin/pbmmake: OK
+/usr/bin/nsupdate: OK
+/usr/bin/pbmtowbmp: OK
+/usr/bin/myisampack: OK
+/usr/bin/sensible-browser: OK
+/bin/gcc-11: Symbolic link
+/usr/bin/fc-cache: OK
+/usr/bin/gpgconf: OK
+/usr/bin/bzip2: OK
+/usr/bin/scsi_start: OK
+/usr/bin/sessreg: OK
+/usr/bin/grog: OK
+/bin/gcc-ar: Symbolic link
+/usr/bin/ppmshadow: OK
+/usr/bin/appres: OK
+/usr/bin/jsonpatch: OK
+/usr/bin/ckbcomp: OK
+/usr/bin/mysql_config_editor: OK
+/usr/bin/ipcs: OK
+/usr/bin/dnssec-keyfromlabel: OK
+/usr/bin/pnmtopalm: OK
+/usr/bin/uclampset: OK
+/usr/bin/systemd-notify: OK
+/usr/bin/gsettings: OK
+/usr/bin/faked-sysv: OK
+/usr/bin/openbox-session: OK
+/usr/bin/ppmcolors: OK
+/usr/bin/mesa-overlay-control.py: OK
+/usr/bin/sdiff: OK
+/usr/bin/rpcgen: OK
+/usr/bin/anytopnm: OK
+/usr/bin/printf: OK
+/usr/bin/netstat: OK
+/usr/bin/setupcon: OK
+/usr/bin/lshw: OK
+/usr/bin/rendercheck: OK
+/usr/bin/sudo: OK
+/usr/bin/pkttyagent: OK
+/usr/bin/gpgparsemail: OK
+/usr/bin/sort: OK
+/usr/bin/podchecker: OK
+/bin/gmake: Symbolic link
+/usr/bin/apt-sortpkgs: OK
+/usr/bin/pnmnlfilt: OK
+/usr/bin/btrfs-map-logical: OK
+/usr/bin/aspell: OK
+/usr/bin/join: OK
+/usr/bin/dnssec-dsfromkey: OK
+/usr/bin/tclsh8.6: OK
+/usr/bin/link: OK
+/usr/bin/sg_reset: OK
+/usr/bin/pyhtmlizer3: OK
+/usr/bin/ssh-import-id: OK
+/bin/lzgrep: Symbolic link
+/usr/bin/dirname: OK
+/usr/bin/dnssec-signzone: OK
+/usr/bin/zip: OK
+/usr/bin/hostname: OK
+/usr/bin/ppmqvga: OK
+/usr/bin/sg_opcodes: OK
+/usr/bin/pdftocairo: OK
+/usr/bin/xdg-settings: OK
+/usr/bin/ssh-argv0: OK
+/usr/bin/dpkg-buildpackage: OK
+/bin/x86_64-linux-gnu-gcc: Symbolic link
+/usr/bin/lwp-request: OK
+/bin/unxz: Symbolic link
+/usr/bin/xdg-icon-resource: OK
+/usr/bin/named-checkconf: OK
+/usr/bin/pbmpage: OK
+/usr/bin/col: OK
+/usr/bin/wbmptopbm: OK
+/bin/nodejs: Symbolic link
+/usr/bin/byobu-export: OK
+/usr/bin/ip: OK
+/usr/bin/sg_rdac: OK
+/usr/bin/sg_seek: OK
+/usr/bin/xwd: OK
+/usr/bin/bc: OK
+/usr/bin/sum: OK
+/usr/bin/mimetype: OK
+/usr/bin/chardetect: OK
+/usr/bin/dpkg-gensymbols: OK
+/bin/irb: Symbolic link
+/usr/bin/addpart: OK
+/usr/bin/x11perf: OK
+/bin/readelf: Symbolic link
+/usr/bin/pollinate: OK
+/usr/bin/sftp-who: OK
+/usr/bin/lsipc: OK
+/usr/bin/fc-cat: OK
+/bin/gio-querymodules: Symbolic link
+/usr/bin/apt: OK
+/usr/bin/tcpdump: OK
+/bin/nmtui-hostname: Symbolic link
+/usr/bin/users: OK
+/usr/bin/xkeystone: OK
+/usr/bin/do-release-upgrade: OK
+/usr/bin/pod2usage: OK
+/usr/bin/btrfs-find-root: OK
+/usr/bin/lspci: OK
+/usr/bin/balooctl: OK
+/bin/gcov-tool-11: Symbolic link
+/usr/bin/ppmtowinicon: OK
+/usr/bin/update_rubygems: OK
+/bin/col5: Symbolic link
+/usr/bin/lesskey: OK
+/usr/bin/rescan-scsi-bus.sh: OK
+/usr/bin/ntfs-3g.probe: OK
+/usr/bin/vigpg: OK
+/usr/bin/zforce: OK
+/usr/bin/dbus-run-session: OK
+/usr/bin/lwp-dump: OK
+/usr/bin/mysqlpump: OK
+/usr/bin/kmod: OK
+/usr/bin/groff: OK
+/usr/bin/mimeopen: OK
+/bin/erb: Symbolic link
+/usr/bin/pi1toppm: OK
+/usr/bin/gio: OK
+/usr/bin/smbstatus: OK
+/usr/bin/kdeinit5: OK
+/usr/bin/sg_write_buffer: OK
+/usr/bin/lsusb: OK
+/usr/bin/myisamlog: OK
+/bin/rview: Symbolic link
+/usr/bin/pnmtile: OK
+/usr/bin/pnmscale: OK
+/usr/bin/sg_decode_sense: OK
+/usr/bin/byobu-janitor: OK
+/usr/bin/ybmtopbm: OK
+/usr/bin/ppmtosixel: OK
+/usr/bin/ssh-import-id-gh: OK
+/usr/bin/ps2pdf13: OK
+/usr/bin/pbmtomgr: OK
+/usr/bin/printafm: OK
+/usr/bin/ipcrm: OK
+/bin/pdb3: Symbolic link
+/usr/bin/gslj: OK
+/usr/bin/chsh: OK
+/usr/bin/byobu-disable-prompt: OK
+/usr/bin/timedatectl: OK
+/usr/bin/fcgistarter: OK
+/usr/bin/thinkjettopbm: OK
+/usr/bin/apport-unpack: OK
+/usr/bin/vmware-xferlogs: OK
+/bin/gpic: Symbolic link
+/usr/bin/plog: OK
+/usr/bin/pnmmargin: OK
+/usr/bin/sftp-kill: OK
+/usr/bin/run-parts: OK
+/usr/bin/sg_map: OK
+/usr/bin/pbmreduce: OK
+/usr/bin/pgmenhance: OK
+/usr/bin/cvtsudoers: OK
+/usr/bin/tload: OK
+/usr/bin/baloosearch: OK
+/usr/bin/sg_referrals: OK
+/usr/bin/fstopgm: OK
+/usr/bin/ppmtoxpm: OK
+/usr/bin/pnmmontage: OK
+/usr/bin/streamzip: OK
+/usr/bin/obamenu: OK
+/usr/bin/byobu-reconnect-sockets: OK
+/usr/bin/convert-im6.q16: OK
+/usr/bin/systemd-inhibit: OK
+/usr/bin/libwacom-list-local-devices: OK
+/usr/bin/vim.tiny: OK
+/usr/bin/pnmshear: OK
+/usr/bin/rletopnm: OK
+/usr/bin/tifftopnm: OK
+/usr/bin/seq: OK
+/usr/bin/xlogo: OK
+/usr/bin/install-info: OK
+/usr/bin/sg_stpg: OK
+/usr/bin/xbmtopbm: OK
+/usr/bin/cloud-init-per: OK
+/usr/bin/ppmlabel: OK
+/usr/bin/dbus-update-activation-environment: OK
+/bin/lsmod: Symbolic link
+/usr/bin/xfd: OK
+/usr/bin/vmware-toolbox-cmd: OK
+/usr/bin/psidtopgm: OK
+/usr/bin/lscpu: OK
+/usr/bin/instmodsh: OK
+/usr/bin/xdriinfo: OK
+/usr/bin/gettext: OK
+/usr/bin/sg_vpd: OK
+/usr/bin/sgp_dd: OK
+/bin/gold: Symbolic link
+/usr/bin/pbmpscale: OK
+/bin/cpp: Symbolic link
+/usr/bin/ntfssecaudit: OK
+/usr/bin/xbiff: OK
+/usr/bin/racc3.0: OK
+/bin/mail: Symbolic link
+/usr/bin/pamstretch-gen: OK
+/usr/bin/tilix.wrapper: OK
+/usr/bin/mkafmmap: OK
+/usr/bin/resizepart: OK
+/usr/bin/dpkg-statoverride: OK
+/bin/telnet: Symbolic link
+/usr/bin/dnssec-verify: OK
+/usr/bin/pnmtofits: OK
+/usr/bin/gpu-manager: OK
+/usr/bin/debconf-escape: OK
+/bin/gcov: Symbolic link
+/bin/psfgettable: Symbolic link
+/usr/bin/pgrep: OK
+/usr/bin/kbookmarkmerger: OK
+/bin/pnminterp-gen: Symbolic link
+/usr/bin/python3.10: OK
+/usr/bin/mysql_upgrade: OK
+/bin/pidof: Symbolic link
+/usr/bin/apport-bug: OK
+/usr/bin/pnmtorast: OK
+/usr/bin/unattended-upgrade: OK
+/usr/bin/busctl: OK
+/usr/bin/pnmremap: OK
+/usr/bin/setxkbmap: OK
+/bin/on_ac_power: Symbolic link
+/usr/bin/perlthanks: OK
+/usr/bin/unzip: OK
+/usr/bin/hyperfine: OK
+/usr/bin/xgc: OK
+/usr/bin/h2xs: OK
+/usr/bin/date: OK
+/bin/composite-im6: Symbolic link
+/usr/bin/pbmtonokia: OK
+/usr/bin/kpackagetool5: OK
+/bin/slogin: Symbolic link
+/bin/i386: Symbolic link
+/usr/bin/node: OK
+/usr/bin/ec2metadata: OK
+/usr/bin/x86_64-linux-gnu-gcc-11: OK
+/usr/bin/busybox: OK
+/bin/git-receive-pack: Symbolic link
+/usr/bin/gem: OK
+/usr/bin/tftp: OK
+/usr/bin/grub-mount: OK
+/usr/bin/xls2csv: OK
+/bin/mogrify: Symbolic link
+/bin/conjure: Symbolic link
+/usr/bin/xload: OK
+/usr/bin/freshclam: OK
+/usr/bin/dpkg-shlibdeps: OK
+/usr/bin/zipgrep: OK
+/usr/bin/wall: OK
+/usr/bin/getkeycodes: OK
+/usr/bin/checkgid: OK
+/bin/edit: Symbolic link
+/bin/tclsh: Symbolic link
+/usr/bin/xhost: OK
+/usr/bin/setsid: OK
+/bin/col3: Symbolic link
+/usr/bin/clambc: OK
+/usr/bin/sha224sum: OK
+/usr/bin/pnmalias: OK
+/usr/bin/sftp-user: OK
+/usr/bin/lsb_release: OK
+/usr/bin/byobu-select-session: OK
+/usr/bin/dumpkeys: OK
+/usr/bin/gpasswd: OK
+/usr/bin/byobu-launcher: OK
+/usr/bin/zless: OK
+/usr/bin/fusermount3: OK
+/usr/bin/named-compilezone: OK
+/usr/bin/systemd-delta: OK
+/usr/bin/networkctl: OK
+/usr/bin/expr: OK
+/usr/bin/pod2html: OK
+/usr/bin/aa-enabled: OK
+/usr/bin/info: OK
+/bin/rrsync: Symbolic link
+/bin/mysqloptimize: Symbolic link
+/usr/bin/mandb: OK
+/usr/bin/pnminvert: OK
+/usr/bin/libwacom-update-db: OK
+/usr/bin/setleds: OK
+/usr/bin/basename: OK
+/usr/bin/gunzip: OK
+/usr/bin/dumpmscat: OK
+/usr/bin/systemd-path: OK
+/usr/bin/dbus-daemon: OK
+/usr/bin/diff3: OK
+/bin/montage: Symbolic link
+/usr/bin/ntfs-3g: OK
+/usr/bin/apt-cdrom: OK
+/bin/infobrowser: Symbolic link
+/usr/bin/loginctl: OK
+/usr/bin/lsof: OK
+/usr/bin/json-patch-jsondiff: OK
+/usr/bin/snapfuse: OK
+/usr/bin/x86_64-linux-gnu-ld.bfd: OK
+/usr/bin/vcs-run: OK
+/usr/bin/basenc: OK
+/usr/bin/pgmtoppm: OK
+/bin/x-terminal-emulator: Symbolic link
+/usr/bin/pwdx: OK
+/usr/bin/mktemp: OK
+/usr/bin/pnmtoddif: OK
+/usr/bin/tdbdump: OK
+/bin/browse: Symbolic link
+/usr/bin/rstartd: OK
+/usr/bin/sprof: OK
+/usr/bin/zstdless: OK
+/usr/bin/readlink: OK
+/usr/bin/slabtop: OK
+/usr/bin/ppmtouil: OK
+/usr/bin/mysqldump: OK
+/usr/bin/fc-validate: OK
+/usr/bin/systemd-hwdb: OK
+/usr/bin/xkbvleds: OK
+/usr/bin/sbverify: OK
+/usr/sbin/blockdev: OK
+/usr/sbin/fsck.btrfs: OK
+/usr/sbin/adduser: OK
+/sbin/lvs: Symbolic link
+/sbin/pvremove: Symbolic link
+/usr/sbin/update-grub: OK
+/sbin/getty: Symbolic link
+/sbin/vgextend: Symbolic link
+/usr/sbin/accessdb: OK
+/usr/sbin/ldconfig: OK
+/usr/sbin/ntfscp: OK
+/usr/sbin/sudo_logsrvd: OK
+/usr/sbin/xfs_admin: OK
+/usr/sbin/pam_getenv: OK
+/usr/sbin/update-secureboot-policy: OK
+/usr/sbin/cfdisk: OK
+/sbin/thin_trim: Symbolic link
+/usr/sbin/grub-macbless: OK
+/sbin/vgmerge: Symbolic link
+/usr/sbin/wpa_action: OK
+/usr/sbin/groupdel: OK
+/usr/sbin/dpkg-reconfigure: OK
+/usr/sbin/locale-gen: OK
+/usr/sbin/postmap: OK
+/sbin/iptables-nft-save: Symbolic link
+/usr/sbin/luksformat: OK
+/usr/sbin/multipath: OK
+/usr/sbin/samba_dnsupdate: OK
+/sbin/vgexport: Symbolic link
+/usr/sbin/mdadm: OK
+/usr/sbin/biosdecode: OK
+/usr/sbin/partprobe: OK
+/usr/sbin/dnsmasq: OK
+/sbin/addgroup: Symbolic link
+/usr/sbin/smtp-sink: OK
+/usr/sbin/xfs_growfs: OK
+/sbin/ip6tables-legacy-save: Symbolic link
+/usr/sbin/usb_modeswitch_dispatcher: OK
+/usr/sbin/kpartx: OK
+/usr/sbin/a2enmod: OK
+/sbin/runlevel: Symbolic link
+/sbin/thin_ls: Symbolic link
+/sbin/era_invalidate: Symbolic link
+/usr/sbin/lvmdump: OK
+/sbin/cache_dump: Symbolic link
+/usr/sbin/wipefs: OK
+/sbin/lvextend: Symbolic link
+/usr/sbin/xfs_freeze: OK
+/usr/sbin/chgpasswd: OK
+/sbin/pvscan: Symbolic link
+/usr/sbin/nologin: OK
+/sbin/mkfs.ntfs: Symbolic link
+/usr/sbin/grub-mkconfig: OK
+/usr/sbin/ldattach: OK
+/usr/sbin/e2image: OK
+/usr/sbin/mkfs.cramfs: OK
+/usr/sbin/dhclient: OK
+/usr/sbin/tsig-keygen: OK
+/usr/sbin/dhclient-script: OK
+/sbin/install-menu: Symbolic link
+/sbin/fsck.vfat: Symbolic link
+/sbin/mkfs.vfat: Symbolic link
+/usr/sbin/sudo_sendlog: OK
+/usr/sbin/getcap: OK
+/usr/sbin/newusers: OK
+/usr/sbin/rtmon: OK
+/sbin/ebtables-nft: Symbolic link
+/usr/sbin/grpconv: OK
+/sbin/netplan: Symbolic link
+/sbin/thin_rmap: Symbolic link
+/sbin/vgchange: Symbolic link
+/usr/sbin/setvtrgb: OK
+/usr/sbin/select-default-ispell: OK
+/usr/sbin/update-mime: OK
+/usr/sbin/e4crypt: OK
+/usr/sbin/rsyslogd: OK
+/sbin/init: Symbolic link
+/usr/sbin/mkfs.minix: OK
+/usr/sbin/pam_extrausers_update: OK
+/sbin/dmstats: Symbolic link
+/usr/sbin/e2fsck: OK
+/usr/sbin/aspell-autobuildhash: OK
+/usr/sbin/addgnupghome: OK
+/sbin/mkfs.msdos: Symbolic link
+/sbin/ip6tables: Symbolic link
+/sbin/logwatch: Symbolic link
+/usr/sbin/ModemManager: OK
+/usr/sbin/kbdrate: OK
+/usr/sbin/xinetd: OK
+/usr/sbin/pam_extrausers_chkpwd: OK
+/usr/sbin/dmsetup: OK
+/usr/sbin/xfs_bmap: OK
+/usr/sbin/blkzone: OK
+/sbin/lvmdiskscan: Symbolic link
+/usr/sbin/aa-status: OK
+/usr/sbin/ifconfig: OK
+/usr/sbin/mke2fs: OK
+/usr/sbin/fdisk: OK
+/usr/sbin/nft: OK
+/usr/sbin/losetup: OK
+/usr/sbin/tune2fs: OK
+/sbin/vgcfgrestore: Symbolic link
+/usr/sbin/iscsi-iname: OK
+/usr/sbin/validlocale: OK
+/usr/sbin/chroot: OK
+/usr/sbin/e2scrub: OK
+/usr/sbin/xtables-nft-multi: OK
+/usr/sbin/pwunconv: OK
+/sbin/vgimport: Symbolic link
+/usr/sbin/iptunnel: OK
+/usr/sbin/iscsiadm: OK
+/sbin/iptables-legacy-save: Symbolic link
+/usr/sbin/rndc-confgen: OK
+/usr/sbin/rndc: OK
+/usr/sbin/mkhomedir_helper: OK
+/sbin/iptables: Symbolic link
+/sbin/pvdisplay: Symbolic link
+/sbin/pvresize: Symbolic link
+/sbin/arptables: Symbolic link
+/sbin/rmt: Symbolic link
+/usr/sbin/logsave: OK
+/sbin/lvscan: Symbolic link
+/sbin/vgdisplay: Symbolic link
+/usr/sbin/parted: OK
+/sbin/mkfs.ext2: Symbolic link
+/usr/sbin/sulogin: OK
+/usr/sbin/arp: OK
+/usr/sbin/vdpa: OK
+/usr/sbin/ethtool: OK
+/usr/sbin/pppoe-discovery: OK
+/usr/sbin/swapoff: OK
+/usr/sbin/grpck: OK
+/sbin/pvcreate: Symbolic link
+/usr/sbin/bridge: OK
+/sbin/fsck.ext2: Symbolic link
+/usr/sbin/cryptdisks_start: OK
+/usr/sbin/userdel: OK
+/sbin/arptables-nft-save: Symbolic link
+/usr/sbin/iscsi_discovery: OK
+/usr/sbin/mkfs.xfs: OK
+/sbin/lvmsadc: Symbolic link
+/usr/sbin/aa-remove-unknown: OK
+/usr/sbin/in.tftpd: OK
+/usr/sbin/shadowconfig: OK
+/sbin/vgconvert: Symbolic link
+/sbin/cache_metadata_size: Symbolic link
+/sbin/lvrename: Symbolic link
+/sbin/ebtables-restore: Symbolic link
+/usr/sbin/genl: OK
+/sbin/vgsplit: Symbolic link
+/sbin/vgreduce: Symbolic link
+/usr/sbin/update-dictcommon-hunspell: OK
+/sbin/mount.ntfs: Symbolic link
+/usr/sbin/update-passwd: OK
+/sbin/cache_repair: Symbolic link
+/usr/sbin/grub-install: OK
+/usr/sbin/update-locale: OK
+/sbin/halt: Symbolic link
+/usr/sbin/dcb: OK
+/usr/sbin/blkdiscard: OK
+/usr/sbin/pam-auth-update: OK
+/usr/sbin/pptp: OK
+/sbin/a2ensite: Symbolic link
+/usr/sbin/arpd: OK
+/usr/sbin/qshape: OK
+/sbin/ip6tables-restore-translate: Symbolic link
+/usr/sbin/postalias: OK
+/usr/sbin/update-icon-caches: OK
+/usr/sbin/fsck.fat: OK
+/usr/sbin/xfs_copy: OK
+/usr/sbin/fstrim: OK
+/usr/sbin/qmqp-sink: OK
+/usr/sbin/update-inetd: OK
+/sbin/mount.ntfs-3g: Symbolic link
+/sbin/fsck.msdos: Symbolic link
+/sbin/lvcreate: Symbolic link
+/sbin/thin_check: Symbolic link
+/usr/sbin/pppstats: OK
+/usr/sbin/integritysetup: OK
+/usr/sbin/a2query: OK
+/usr/sbin/gdisk: OK
+/sbin/mount.lowntfs-3g: Symbolic link
+/usr/sbin/slattach: OK
+/sbin/ebtables: Symbolic link
+/usr/sbin/postlock: OK
+/sbin/dosfslabel: Symbolic link
+/usr/sbin/ispell-autobuildhash: OK
+/sbin/lvmsar: Symbolic link
+/usr/sbin/mkfs: OK
+/sbin/lvmconfig: Symbolic link
+/usr/sbin/mkfs.fat: OK
+/usr/sbin/isosize: OK
+/usr/sbin/devlink: OK
+/usr/sbin/usermod: OK
+/sbin/pvchange: Symbolic link
+/sbin/a2disconf: Symbolic link
+/usr/sbin/chkrootkit: OK
+/sbin/vigr: Symbolic link
+/usr/sbin/cryptdisks_stop: OK
+/usr/sbin/unhide.rb: OK
+/sbin/vgcfgbackup: Symbolic link
+/usr/sbin/hdparm: OK
+/usr/sbin/ntfsundelete: OK
+/usr/sbin/hwclock: OK
+/sbin/ebtables-nft-save: Symbolic link
+/usr/sbin/pam_timestamp_check: OK
+/usr/sbin/make-ssl-cert: OK
+/sbin/iptables-save: Symbolic link
+/sbin/dosfsck: Symbolic link
+/usr/sbin/fsadm: OK
+/sbin/ip6tables-legacy: Symbolic link
+/usr/sbin/pwck: OK
+/usr/sbin/update-shells: OK
+/usr/sbin/mdmon: OK
+/usr/sbin/ntfsresize: OK
+/sbin/ip6tables-translate: Symbolic link
+/usr/sbin/e2freefrag: OK
+/usr/sbin/fixparts: OK
+/sbin/thin_delta: Symbolic link
+/usr/sbin/grub-probe: OK
+/usr/sbin/rmail: OK
+/sbin/lvremove: Symbolic link
+/sbin/cpgr: Symbolic link
+/sbin/mount.fuse: Symbolic link
+/usr/sbin/thermald: OK
+/sbin/a2dismod: Symbolic link
+/usr/sbin/ntfslabel: OK
+/usr/sbin/unhide-tcp: OK
+/usr/sbin/irqbalance: OK
+/sbin/telinit: Symbolic link
+/usr/sbin/postfix-collate: OK
+/sbin/ip6tables-restore: Symbolic link
+/usr/sbin/postfix: OK
+/usr/sbin/aa-teardown: OK
+/usr/sbin/unix_update: OK
+/sbin/vgs: Symbolic link
+/usr/sbin/route: OK
+/usr/sbin/e2undo: OK
+/sbin/depmod: Symbolic link
+/usr/sbin/update-default-ispell: OK
+/usr/sbin/update-dictcommon-aspell: OK
+/sbin/chklastlog: Symbolic link
+/usr/sbin/ownership: OK
+/sbin/arptables-restore: Symbolic link
+/usr/sbin/cron: OK
+/sbin/vgrename: Symbolic link
+/usr/sbin/nameif: OK
+/sbin/arptables-nft: Symbolic link
+/sbin/su-to-root: Symbolic link
+/sbin/thin_repair: Symbolic link
+/usr/sbin/postkick: OK
+/usr/sbin/cryptsetup: OK
+/sbin/era_restore: Symbolic link
+/usr/sbin/xfs_ncheck: OK
+/usr/sbin/ufw: OK
+/usr/sbin/postfix-add-policy: OK
+/sbin/lvdisplay: Symbolic link
+/usr/sbin/named: OK
+/usr/sbin/xfs_mkfile: OK
+/usr/sbin/installkernel: OK
+/usr/sbin/sshd: OK
+/sbin/ebtables-save: Symbolic link
+/sbin/iptables-restore: Symbolic link
+/sbin/mkfs.ext4: Symbolic link
+/usr/sbin/debugfs: OK
+/sbin/e2mmpstatus: Symbolic link
+/usr/sbin/cryptsetup-ssh: OK
+/usr/sbin/chat: OK
+/usr/sbin/lynis: OK
+/usr/sbin/xfs_scrub: OK
+/usr/sbin/NetworkManager: OK
+/sbin/insmod: Symbolic link
+/usr/sbin/lvm: OK
+/usr/sbin/postcat: OK
+/usr/sbin/samba: OK
+/usr/sbin/mkswap: OK
+/usr/sbin/postqueue: OK
+/usr/sbin/postconf: OK
+/sbin/unhide: Symbolic link
+/sbin/ip6tables-save: Symbolic link
+/usr/sbin/add-shell: OK
+/usr/sbin/plipconfig: OK
+/sbin/update-grub2: Symbolic link
+/usr/sbin/setcap: OK
+/sbin/arptables-save: Symbolic link
+/usr/sbin/pivot_root: OK
+/sbin/ip6tables-nft-restore: Symbolic link
+/usr/sbin/remove-default-ispell: OK
+/usr/sbin/deluser: OK
+/sbin/iptables-nft: Symbolic link
+/usr/sbin/agetty: OK
+/sbin/vgimportclone: Symbolic link
+/usr/sbin/cgdisk: OK
+/usr/sbin/fsck.minix: OK
+/sbin/update-default-aspell: Symbolic link
+/usr/sbin/multipathd: OK
+/sbin/arptables-nft-restore: Symbolic link
+/sbin/poweroff: Symbolic link
+/usr/sbin/chmem: OK
+/usr/sbin/xfs_metadump: OK
+/usr/sbin/pppdump: OK
+/sbin/modprobe: Symbolic link
+/sbin/reboot: Symbolic link
+/usr/sbin/iscsid: OK
+/usr/sbin/update-rc.d: OK
+/usr/sbin/pwconv: OK
+/sbin/fsck.ext3: Symbolic link
+/usr/sbin/useradd: OK
+/sbin/a2dissite: Symbolic link
+/sbin/pvmove: Symbolic link
+/sbin/iptables-translate: Symbolic link
+/sbin/cache_check: Symbolic link
+/sbin/lvreduce: Symbolic link
+/usr/sbin/posttls-finger: OK
+/usr/sbin/tarcat: OK
+/usr/sbin/grub-set-default: OK
+/usr/sbin/blkdeactivate: OK
+/usr/sbin/chpasswd: OK
+/usr/sbin/switch_root: OK
+/usr/sbin/unhide-posix: OK
+/usr/sbin/check_forensic: OK
+/usr/sbin/tzconfig: OK
+/usr/sbin/dpkg-preconfigure: OK
+/usr/sbin/vpddecode: OK
+/usr/sbin/zramctl: OK
+/usr/sbin/samba_kcc: OK
+/usr/sbin/badblocks: OK
+/usr/sbin/rarp: OK
+/usr/sbin/mkfs.bfs: OK
+/usr/sbin/sfdisk: OK
+/sbin/thin_metadata_size: Symbolic link
+/usr/sbin/groupmems: OK
+/usr/sbin/getpcaps: OK
+/usr/sbin/unhide_rb: OK
+/usr/sbin/update-gsfontmap: OK
+/usr/sbin/fsck.xfs: OK
+/usr/sbin/readprofile: OK
+/usr/sbin/logrotate: OK
+/sbin/ip6tables-nft: Symbolic link
+/sbin/apachectl: Symbolic link
+/sbin/cache_writeback: Symbolic link
+/usr/sbin/zerofree: OK
+/usr/sbin/zic: OK
+/usr/sbin/invoke-rc.d: OK
+/usr/sbin/postlog: OK
+/usr/sbin/postmulti: OK
+/usr/sbin/make-bcache: OK
+/sbin/iptables-legacy: Symbolic link
+/usr/sbin/u-d-c-print-pci-ids: OK
+/sbin/vgck: Symbolic link
+/sbin/ip6tables-legacy-restore: Symbolic link
+/sbin/vgcreate: Symbolic link
+/usr/sbin/grpunconv: OK
+/usr/sbin/xfs_spaceman: OK
+/usr/sbin/mpathpersist: OK
+/usr/sbin/unix_chkpwd: OK
+/sbin/vgscan: Symbolic link
+/sbin/iptables-restore-translate: Symbolic link
+/usr/sbin/xfs_repair: OK
+/usr/sbin/fstab-decode: OK
+/usr/sbin/e4defrag: OK
+/sbin/iucode-tool: Symbolic link
+/usr/sbin/sysctl: OK
+/usr/sbin/swapon: OK
+/usr/sbin/bcache-super-show: OK
+/usr/sbin/mkfs.btrfs: OK
+/usr/sbin/wpa_cli: OK
+/sbin/iptables-legacy-restore: Symbolic link
+/usr/sbin/update-ca-certificates: OK
+/usr/sbin/visudo: OK
+/usr/sbin/xfs_io: OK
+/usr/sbin/update-info-dir: OK
+/usr/sbin/ctrlaltdel: OK
+/usr/sbin/samba_spnupdate: OK
+/usr/sbin/apache2ctl: OK
+/usr/sbin/smbd: OK
+/usr/sbin/eventlogadm: OK
+/usr/sbin/sgdisk: OK
+/usr/sbin/lvmpolld: OK
+/usr/sbin/findfs: OK
+/sbin/era_check: Symbolic link
+/usr/sbin/ddns-confgen: OK
+/sbin/pvck: Symbolic link
+/usr/sbin/dmidecode: OK
+/usr/sbin/usbmuxd: OK
+/usr/sbin/sendmail: OK
+/usr/sbin/mklost+found: OK
+/usr/sbin/xfs_info: OK
+/sbin/mkfs.ext3: Symbolic link
+/usr/sbin/umount.udisks2: OK
+/usr/sbin/nfnl_osf: OK
+/usr/sbin/httxt2dbm: OK
+/usr/sbin/applygnupgdefaults: OK
+/sbin/thin_dump: Symbolic link
+/usr/sbin/iucode_tool: OK
+/usr/sbin/update-fonts-alias: OK
+/usr/sbin/samba_upgradedns: OK
+/usr/sbin/iconvconfig: OK
+/usr/sbin/swaplabel: OK
+/usr/sbin/setvesablank: OK
+/usr/sbin/fsfreeze: OK
+/usr/sbin/runuser: OK
+/usr/sbin/grub-reboot: OK
+/usr/sbin/apparmor_parser: OK
+/usr/sbin/e2scrub_all: OK
+/sbin/rmmod: Symbolic link
+/usr/sbin/pptpsetup: OK
+/usr/sbin/ntfsclone: OK
+/usr/sbin/blkid: OK
+/usr/sbin/xfs_db: OK
+/usr/sbin/filefrag: OK
+/usr/sbin/vcstime: OK
+/usr/sbin/dmeventd: OK
+/usr/sbin/cryptsetup-reencrypt: OK
+/usr/sbin/faillock: OK
+/usr/sbin/pppd: OK
+/usr/sbin/apache2: OK
+/sbin/vgremove: Symbolic link
+/usr/sbin/postdrop: OK
+/sbin/xtables-monitor: Symbolic link
+/sbin/chkwtmp: Symbolic link
+/usr/sbin/urnis: OK
+/usr/sbin/select-default-wordlist: OK
+/usr/sbin/pdata_tools: OK
+/sbin/ip: Symbolic link
+/usr/sbin/grub-mkdevicemap: OK
+/usr/sbin/xfs_rtcp: OK
+/usr/sbin/iptables-apply: OK
+/sbin/lvconvert: Symbolic link
+/usr/sbin/rtcwake: OK
+/sbin/apparmor_status: Symbolic link
+/sbin/lvresize: Symbolic link
+/sbin/shutdown: Symbolic link
+/usr/sbin/remove-shell: OK
+/usr/sbin/mii-tool: OK
+/usr/sbin/start-stop-daemon: OK
+/usr/sbin/rtacct: OK
+/usr/sbin/postfix-add-filter: OK
+/usr/sbin/groupadd: OK
+/sbin/pvs: Symbolic link
+/usr/sbin/rmt-tar: OK
+/usr/sbin/tipc: OK
+/sbin/lvchange: Symbolic link
+/usr/sbin/chcpu: OK
+/sbin/modinfo: Symbolic link
+/usr/sbin/xfs_quota: OK
+/usr/sbin/netfilter-persistent: OK
+/usr/sbin/dumpe2fs: OK
+/usr/sbin/xfs_estimate: OK
+/usr/sbin/wpa_supplicant: OK
+/usr/sbin/usb_modeswitch: OK
+/usr/sbin/vipw: OK
+/usr/sbin/update-pciids: OK
+/usr/sbin/samba_downgrade_db: OK
+/usr/sbin/iscsistart: OK
+/sbin/ebtables-nft-restore: Symbolic link
+/usr/sbin/mysqld: OK
+/usr/sbin/needrestart: OK
+/usr/sbin/fatlabel: OK
+/sbin/lsmod: Symbolic link
+/usr/sbin/xfs_logprint: OK
+/usr/sbin/mksmbpasswd: OK
+/usr/sbin/mkntfs: OK
+/usr/sbin/update-initramfs: OK
+/usr/sbin/update-fonts-dir: OK
+/sbin/era_dump: Symbolic link
+/usr/sbin/xfs_mdrestore: OK
+/usr/sbin/split-logfile: OK
+/usr/sbin/mount.fuse3: OK
+/usr/sbin/smtp-source: OK
+/usr/sbin/xtables-legacy-multi: OK
+/sbin/mkdosfs: Symbolic link
+/usr/sbin/fsck: OK
+/usr/sbin/update-fonts-scale: OK
+/usr/sbin/fsck.cramfs: OK
+/usr/sbin/tc: OK
+/usr/sbin/qmqp-source: OK
+/sbin/a2enconf: Symbolic link
+/sbin/iptables-nft-restore: Symbolic link
+/sbin/fsck.ext4: Symbolic link
+/usr/sbin/nmbd: OK
+/usr/sbin/overlayroot-chroot: OK
+/sbin/vgmknodes: Symbolic link
+/usr/sbin/on_ac_power: OK
+/sbin/thin_restore: Symbolic link
+/usr/sbin/groupmod: OK
+/usr/sbin/postsuper: OK
+/usr/sbin/xfs_fsr: OK
+/usr/sbin/resize2fs: OK
+/usr/sbin/killall5: OK
+/usr/sbin/service: OK
+/sbin/ip6tables-nft-save: Symbolic link
+/usr/sbin/remove-default-wordlist: OK
+/sbin/e2label: Symbolic link
+/sbin/delgroup: Symbolic link
+/usr/sbin/samba-gpupdate: OK
+/usr/sbin/uuidd: OK
+/usr/sbin/capsh: OK
+/usr/sbin/xfs_scrub_all: OK
+/usr/sbin/veritysetup: OK
+/usr/sbin/irqbalance-ui: OK
+/sbin/cache_restore: Symbolic link
+/usr/sbin/ipmaddr: OK
+/usr/sbin/mkinitramfs: OK
+/usr/sbin/cppw: OK
+/usr/sbin/plymouthd: OK
+/usr/sbin/ldconfig.real: OK
+/usr/sbin/paperconfig: OK
+/usr/sbin/unhide-linux: OK
+/usr/sbin/update-default-wordlist: OK
+/sbin/ip6tables-apply: Symbolic link
+
+----------- SCAN SUMMARY -----------
+Known viruses: 8652920
+Engine version: 0.103.6
+Scanned directories: 2
+Scanned files: 1839
+Infected files: 0
+Data scanned: 330.67 MB
+Data read: 404.03 MB (ratio 0.82:1)
+Time: 42.147 sec (0 m 42 s)
+Start Date: 2023:02:16 11:04:46
+End Date:   2023:02:16 11:05:28

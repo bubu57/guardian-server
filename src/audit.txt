@@ -1,1 +1,26 @@
-guardian-server
+
+
+guardian result
+==================
+
+[+] System scan
+-----------
+
+Warning: 3
+Suggestions: 58
+
+
+[+] Virus scan
+-----------
+
+Scanned files: 1839
+Infected files: 0
+Scanned directories: 2
+
+
+[+] Backup
+-----------
+
+size of dir: 501K
+number of directories: 3
+
