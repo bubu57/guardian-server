@@ -82,7 +82,7 @@ backup () {
     sudo zip -r "$dat" "$dat" >> $gdest/$dat/back_log
     sudo rm -fr "$dat"
 
-    sizedir=`sudo du -hs $gdest | awk '{ print $1 }'`
+    # sizedir=`sudo du -hs $gdest | awk '{ print $1 }'`
     nbdir=`sudo ls $gdest | wc -l`
 
     echo -e "size of dir: $sizedir\nnumber of directories: $nbdir\n" >> $gaudit
@@ -96,11 +96,10 @@ echo "  [DONE]"
 echo -n "checking virus..."
 clamav
 echo "  [DONE]"
-echo -n "backup..."
-backup
-echo "  [DONE]"
+# echo -n "backup..."
+# backup
+# echo "  [DONE]"
 cat $gaudit
-
 
 audit_send=`cat $gaudit`
 curl -d "$audit_send" $gntfy
